@@ -1,5 +1,5 @@
-from django.conf.urls import url, include 
+from django.urls import path, include 
  
 urlpatterns = [ 
-    url(r'^', include('tutorials.urls')),
+    path('', include('tutorials.urls')),
 ]
