@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html  lang="de" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+             
+  <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="canonical" href="https://www.axa-schengen.com/de/schengen-visum/schengen-visum-verlaengern" />
+<meta name="abstract" content="Creating Article pages" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="de" href="https://www.axa-schengen.com/de/schengen-visum/schengen-visum-verlaengern" />
+<link rel="shortcut icon" href="/sites/default/files/favicon_1_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://www.axa-schengen.com/de/schengen-visum/schengen-visum-verlaengern" />
+
+        <title>Wie kann ich ein Schengen-Visum verlängern?  | AXA Schengen</title>
+    
+  
+    <script>
+          var dataLayer = [{ 
+              "site": "axa_schengen",
+              "pagename":  "schengen-visumschengen-visum-verlaengern",
+              "pagecategory": "content_page",
+              "language":  "de",
+              "country":  "de",
+              "device": "desktop"
+          }]; 
+      </script> 
+                <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KPXWBQN');</script>
+        
+         
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_3PMkDwO1lxdx9PSwQUCwcvyS-HiVbb_5ENR1hjNNhZw.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XTJsQv1WmmWDUwOOYq3uY-iO22s9-D4IgqrhI0PwtNU.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_TXudY60RfWtEmuNzCfiTrWI2ixhc4DuelHqUljpbDI4.css" />
+
+  
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_7XdnDycPJC_RcN5e0_IZysNIYG1K9aHVGYNxPaZfp-Y.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_1nJBUhoNt2XJe147tllzuiY1IlIYdPhr_a9zObT9MpA.js"></script>
+
+  </head>
+  <body  class="page-tnid-1014 is-path-node is-page-node-type-article-page">
+      
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KPXWBQN"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   
+  <!-- 
+<a href="#main-content" class="skip-link visually-hidden visually-hidden--focusable">
+      Direkt zum Inhalt
+  </a>
+ -->
+  
+  
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div class="layout-center">
+
+  <header class="header" role="banner">
+  <div>
+    
+
+<div id="block-languageselectionblock" class="block block-language-selection block-language-selection-block">
+  
+    
+       <div class="c-lang-switcher">
+
+      <div class="c-lang-switcher__container">
+
+        <div class="dropdown__wrapper" data-dropdown-wrapper>
+
+     
+
+          <button type="button" class="c-lang-switcher__button dropdown__button" aria-expanded="false" aria-controls="content_01" data-dropdown-toggle>
+
+         
+
+            <span data-lang="en">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/en.png" alt="">
+
+              <span>English</span>
+
+            </span>
+
+         
+
+            <span data-lang="fr">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/fr.png" alt="">
+
+              <span>French</span>
+
+            </span>
+
+         
+
+            <span data-lang="de">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/de.png" alt="">
+
+              <span>Deutsch</span>
+
+            </span>
+
+         
+
+            <span data-lang="ru">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/ru.png" alt="">
+
+              <span>Russian</span>
+
+            </span>
+
+              <span data-lang="es">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/es.png" alt="">
+
+              <span>Espanol</span>
+
+            </span>
+
+         
+
+            <span data-lang="zh-hans">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/zh-hans.png" alt="">
+
+              <span>Chinese simplified</span>
+
+            </span>
+
+         
+
+            <span data-lang="nl">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/nl.png" alt="">
+
+              <span>Nederlands</span>
+
+            </span>
+
+         
+
+            <span data-lang="se">
+
+              <img src="https://www.axa-schengen.com/modules/languageicons/flags/se.png" alt="">
+
+              <span>Svenska</span>
+
+            </span>
+
+         
+
+          </button>
+
+          <div id="content_01" class="c-lang-switcher__content dropdown__content" aria-hidden="true">
+
+       
+
+            <ul class="c-lang-switcher__list">
+
+           
+              <li data-lang="en">
+                                                      <a class="c-lang-switcher__link" hreflang="en" href="https://www.axa-schengen.com/en">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/en.png" alt="">
+
+                      <span>Englisch</span>
+
+                    </a>
+                             
+
+              </li>
+
+              
+              <li data-lang="fr">
+                                                      <a class="c-lang-switcher__link" hreflang="fr" href="https://www.axa-schengen.com/fr">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/fr.png" alt="">
+
+                      <span>French</span>
+
+                    </a>
+                             
+
+              </li>
+
+              
+              <li data-lang="de">
+                                                      <a class="c-lang-switcher__link" hreflang="de" href="https://www.axa-schengen.com/de">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/de.png" alt="">
+
+                      <span>Deutsch</span>
+
+                    </a>
+                             
+
+              </li>
+
+              
+              <li data-lang="ru">
+                                                      <a class="c-lang-switcher__link" hreflang="ru" href="https://www.axa-schengen.com/ru">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/ru.png" alt="">
+
+                      <span>Russian</span>
+
+                    </a>
+                             
+
+              </li>
+
+              
+              <li data-lang="es">
+                                                      <a class="c-lang-switcher__link" hreflang="es" href="https://www.axa-schengen.com/es">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/es.png" alt="">
+
+                      <span>Spanisch</span>
+
+                    </a>
+                             
+
+              </li>
+
+              
+              <li data-lang="zh-hans">
+                                          
+                                <a class="c-lang-switcher__link" hreflang="zh-hans" href="https://www.axa-schengen.com/cn">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/zh-hans.png" alt="">
+
+                      <span>Chinese simplified</span>
+
+                    </a>
+                            
+
+              </li>
+
+              
+              <li data-lang="nl">
+                                                      <a class="c-lang-switcher__link" hreflang="nl" href="https://www.axa-schengen.com/nl">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/nl.png" alt="">
+
+                      <span>Nederlands</span>
+
+                    </a>
+                             
+
+              </li>
+
+              
+              <li data-lang="se">
+                                                      <a class="c-lang-switcher__link" hreflang="se" href="https://www.axa-schengen.com/se">
+
+                      <img src="https://www.axa-schengen.com/modules/languageicons/flags/se.png" alt="">
+
+                      <span>Svenska</span>
+
+                    </a>
+                             
+
+              </li>
+
+              
+           
+
+              
+           
+
+            </ul>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div> 
+
+  </div>
+<div id="block-axa-zen-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/de" rel="home" class="site-logo">
+      <img src="/sites/default/files/axa_logo_0.png" alt="Startseite" />
+    </a>
+      </div>
+<div id="block-mainnavigation-3" class="block block-we-megamenu block-we-megamenu-blockmenu-mainnav">
+  
+    
+      <div class="region-we-mega-menu">
+        <a class="navbar-toggle collapsed">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </a>
+        <nav  class="menu-mainnav navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action" data-menu-name="menu-mainnav" data-block-theme="axa_zen" data-style="Default" data-animation="None" data-delay="" data-duration="" data-autoarrow="" data-alwayshowsubmenu="" data-action="hover" data-mobile-collapse="0">
+          <div class="container-fluid">
+            <ul  class="we-mega-menu-ul nav nav-tabs">
+  <li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="113dcfe4-31c5-4fb2-b4f1-3ffd915cb7eb" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-visum-infos" target="_self">
+      SCHENGEN VISUM    </a>
+    <p></p>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="submenudesc" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div id="block-submenudesc" class="block block-block-content block-block-content61e5bb1f-68e6-47f2-9da3-acb9f5232b3e">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p style="color: #00008f;&#10;    display: block;&#10;    font-weight: 700;&#10;    font-size: 45px!important;&#10;    line-height:1em!important;&#10;    margin-top: 0;&#10;    font-family: 'Publico Banner',sans-serif;&#10;    padding: 0;&#10;    line-height: .9;&#10;    margin-bottom: 15px;">Schengen visum</p>
+
+<p style="color: #00008f;&#10;    font-size: 16px!important;&#10;    margin-bottom: -10px;font-family:'Source Sans Pro',sans-serif !important;">Planen Sie, geschäftlich oder privat nach Europa zu reisen?<br />
+Sind Sie auf der Suche nach einer<br />
+Reiseversicherung, um Ihr Visum zu bekommen?</p>
+
+<p style="text-transform: uppercase;    &#10;    line-height: 18px;&#10;    padding-right: 30px;&#10;    display: inline-block;    &#10;    background: url(/themes/axa_zen/images/arrow-blue.png) no-repeat center right;"><a class="link-discovery" href="https://www.axa-schengen.com/de/welche-laender-brauchen-ein-visum" style="color: #00008f;font-weight: 700;font-family: 'Source Sans Pro',sans-serif;">ERFAHREN SIE MEHR</a></p>
+</div>
+      
+
+</div>
+
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="b07bd7b1-d247-4b3b-84fb-d949c52600c5" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-visum/antragsvoraussetzungen" target="">
+      Schengen visa requirements    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="75e5b6e2-9476-4240-b3c0-0514fb5ddf2b" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-laender" target="">
+      Schengen-länder    </a>
+    <p></p>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="13530ce4-23c9-4e10-aa2b-5a4f0044a8f7" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-raum" target="">
+      Welche staaten sind mitglied des schengenraums?    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="9b13a748-461b-4b87-8489-cb18adab4d80" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/welche-laender-brauchen-ein-visum" target="">
+      Wer benötigt ein visum?    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="0979d20f-ed7d-4911-b409-6586f2a6eff9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-raum-visum-beantragen" target="">
+      Wie bekomme ich ein visum?    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="71d42663-fb6c-4954-83fa-67b1eadeaa27" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/deutschland-visum/china" target="">
+      Deutschland-visum für chinesen    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="044e1a17-a871-4278-b474-0d95c1d2ff9b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/deutschland-visum/russland" target="">
+      Deutschland-visum für russen    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="25d005b1-6c11-455b-85d7-af25e3343abd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/deutschland-visum/tuerkei" target="">
+      Visum türkei deutschland    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="0bce65c8-d13a-4f85-8ed3-3452965136c1" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-raum-tuerkei" target="">
+      Türkei und der schengenraum    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="3f06d760-c9ad-4430-87ba-ee643d6bbc95" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/deutschland-visum" target="">
+      Visum für deutschland    </a>
+    <p></p>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="1528d1d4-8149-44bd-8937-7e5bb6ef0b12" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      SCHENGEN VERSICHERUNG</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="sub_menudescription2" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div id="block-sub-menudescription2" class="block block-block-content block-block-contentd33faedb-d1c9-4c0a-9183-8b13221a065c">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p banner="" publico="" style="color: #00008f;&#10;    display: block;&#10;    font-weight: 700;&#10;    font-size: 45px!important;&#10;    line-height:1em!important;&#10;    margin-top: 0;&#10;    font-family: 'Publico Banner',sans-serif;&#10;    padding: 0;&#10;    line-height: .9;&#10;    margin-bottom: 15px;">Schengen versicherung</p>
+
+<p style="color: #00008f;&#10;    font-size: 16px!important;&#10;    margin-bottom: -10px;font-family:'Source Sans Pro',sans-serif !important;">Sie müssen eine maßgeschneiderte Schengen-Visa-Versicherung wählen auf Ihre Bedürfnisse?<br />
+Entdecken Sie das AXA Schengen Visum ersicherungspolicen</p>
+
+<p style="text-transform: uppercase;    &#10;    line-height: 18px;&#10;    padding-right: 30px;&#10;    display: inline-block;    &#10;    background: url(/themes/axa_zen/images/arrow-blue.png) no-repeat center right;"><a class="link-discovery" href="https://www.axa-schengen.com/de" style="color: #00008f;font-weight: 700;font-family: 'Source Sans Pro',sans-serif;">ERFAHREN SIE MEHR</a></p>
+</div>
+      
+
+</div>
+
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li low_cast_schengen_menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="8021d4f8-833c-4ce5-9984-49802b76f5f9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="low_cast_schengen_menu" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-reiseversicherung-low-cost" target="_self">
+      Low cost     </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="169fea32-2456-4b32-b4db-f29a509471df" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-reiseversicherung-europe-travel" target="_self">
+       Europe Travel    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2403008a-9df6-4322-9367-c1c1ad33f701" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-reiseversicherung-multi-trip" target="_self">
+      Multi trip    </a>
+    <p></p>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="01d395c1-795d-4dbe-a064-15b2fbed757d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/de/reiseversicherung-preise" target="_self">
+      Preise    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li schengen_insurance_warrranties" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2308934b-e17f-4209-9b36-85b9755eb141" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="schengen_insurance_warrranties" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/reiseversicherung-gewaehrleistungen" target="">
+      Gewährleistungen    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="c31423d1-9833-410c-8bb6-49a235be638a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/schengen-visum-krankenversicherung" target="">
+      Schengen-visum-krankenversicherung    </a>
+    <p></p>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="837432a7-4c9b-4ff1-a861-c2e47377dd49" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/de/FAQ" target="">
+      FAQ    </a>
+    <p></p>
+    
+</li><li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="201dfa1e-41fd-46a9-8cd3-1da41d07d3ac" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="https://subscribe.axa-schengen.com/en/espace_client/" target="">
+      mein Konto    </a>
+    <p></p>
+    
+</li>
+</ul>
+          </div>
+        </nav>
+</div>
+  </div>
+<div id="block-searchicondisplayedwhiletyping" class="block block-block-content block-block-content187fd894-9cb0-43e8-b046-903f4178d436">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div><img alt="search-open" id="openSearch" src="/sites/default/files/inline-images/search2.png" style="width: 20px; height: 20px; display:none;" /></div>
+</div>
+      
+
+</div>
+
+
+  </div>
+<div id="block-searchicon" class="block block-block-content block-block-content376e9108-2dd7-406c-88fa-e8f5b99de053">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div><img alt="banner" id="SearchIcon" src="/sites/default/files/inline-images/search-icon_0.png" /></div>
+</div>
+      
+
+</div>
+
+
+  </div>
+<div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-searchform-2" role="search">
+  
+    
+      <form action="/de/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Suche</label>
+        <input title="Die Begriffe eingeben, nach denen gesucht werden soll." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Suche" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+<div id="block-cancelsearch" class="block block-block-content block-block-contentc8eba34f-1372-44e2-9e36-9d1d46951b9a">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><input id="cancel-search" type="button" value="Cancel" /></p></div>
+      
+
+</div>
+
+
+  </div>
+<div id="block-mobilecancelimage" class="block block-block-content block-block-contentc3afdd00-5dc4-47e5-a8bd-9ff8a850e730">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div><img alt="cancel-icon" id="cancel_search_mobile" src="/sites/default/files/inline-images/cancel_icon_0.png" style="float: right; width: 25px; height: 25px; display:none" /></div>
+</div>
+      
+
+</div>
+
+
+  </div>
+<div id="block-quoteme" class="block block-block-content block-block-contentc850e271-1f8f-4c1e-a43f-445702459e30">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a class="clsAddCookieAgreed" href="https://subscribe.axa-schengen.com/?step=step_1&amp;langue=de">ANGEBOT ERRECHNEN</a></p>
+</div>
+      
+
+</div>
+
+
+  </div>
+
+
+    
+        </div>
+  </header>
+
+  <div class="layout-3col">
+
+                              
+    <div class="layout-3col__full">
+      
+    </div>
+
+    <main class="layout-3col__full" role="main">
+
+      
+      
+   <!--   <a href="#skip-link" class="visually-hidden visually-hidden--focusable" id="main-content">Back to top</a> -->      
+      
+
+
+
+      
+
+<div data-drupal-messages-fallback class="hidden"></div>  
+    
+
+    <div data-history-node-id="1014" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+                          <h1  >
+      Wie kann ich ein Schengen-Visum verlängern?</h1>
+      
+  
+
+
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+              <div class="field__item"><p><img alt="schengen visum verlaengern" data-entity-type="file" data-entity-uuid="0e9f1438-ccd9-46f8-b99a-015f841594b7" src="/sites/default/files/inline-images/24_checklist_visa_extension_Germany.jpeg" /></p>
+
+<p>Um die gesamte Schengen-Zone in ihrer Gänze kennenzulernen, sollten Sie viel Zeit einplanen: Die 27 Schengen-Länder, darunter 23 EU-Mitgliedsstaaten, 4 EFTA-Staaten sowie die drei Mikrostaaten, Vatikanstadt, Monaco und San Marino, sind unglaublich divers und reizvoll. Jedes Schengen-Land ist auf seine eigene Art besonders und einzigartig! So überrascht es nicht, dass ein <a href="https://www.axa-schengen.com/de/schengen-raum-visum-beantragen">Schengen-Visum-Antrag</a> für einen kurzen Aufenthalt meist nicht ausreicht, um die Vielfalt der Schengen-Länder kennen zu lernen. Doch wie viele Tage dürfen Sie überhaupt in der Schengen-Zone verbringen und können Sie eigentlich Ihr <strong>Schengen-Visum verlängern</strong>? Dieser Artikel hat die passenden Antworten parat!<br />
+ </p>
+
+<p><em><strong>Hinweis</strong>: Auch wenn die meisten Schengen-Länder EU-Mitgliedstaaten sind, so sollten Sie den Schengen-Raum nicht mit der Europäischen Union verwechseln! Schließlich gibt es auch Nicht-EU-Staaten, die Teil der Schengen-Zone sind, sowie EU-Mitgliedstaaten, die das Schengenrecht nicht in seinem vollen Umfang anwenden!</em></p>
+
+<h2>Schengen-Visum Typ C: Kann man das Schengen-Visum verlängern?</h2>
+
+<p>Schwierig! Eine Schengen-Visum Verlängerung ist nur in bestimmten Fällen möglich! Die Kategorie des Visums ist dabei ausschlaggebend! Das Schengen-Visum Typ C macht einen kurzen Aufenthalt bis zu 90 Tagen innerhalb eines Zeitraums von 180 Tagen möglich – sofern nicht eine kürzere Gültigkeitsdauer in Ihrem Visum angegeben ist! Es handelt sich dabei um ein sehr gefragtes Kurzzeit-Visum, was sich perfekt für touristische Zwecke, den Besuch von Familie und Bekannten sowie geschäftliche Aufenthalte eignet. Da das Schengen-Visum Typ C Ihnen vornherein nur einen kurzfristigen Aufenthalt im Schengen-Raum erlaubt und es Ihnen für einen spezifischen Reisezweck ausgestellt wird, gestaltet sich die Verlängerung des C-Visums als äußerst schwierig und ist nur in ganz bestimmten Ausnahmefällen möglich.<br />
+ </p>
+
+<h3>In welchen Fällen kann man ein Schengen-Visum C verlängern?</h3>
+
+<p>Zu diesen speziellen Ausnahmefällen gehören humanitäre oder schwere persönliche Gründe sowie höhere Gewalt, die Ihre rechtzeitige Ausreise verhindert.</p>
+
+<ul>
+        <li><strong>Höhere Gewalt</strong>: Beispiele für höhere Gewalt sind Streiks oder Unwetter, die den Flugverkehr aussetzen, so dass Sie Ihre Abreise nicht antreten können. Oder aber eine Pandemie, wie die Corona-Krise.<br />
+         </li>
+        <li><strong>Humanitäre Gründe</strong>: Dazu zählt beispielsweise eine Erkrankung, die Ihre Ausreise untragbar macht.<br />
+         </li>
+        <li><strong>Schwerwiegende persönliche Gründe</strong>: Das können folgenschwere Ereignisse sein, die vor Ihrer Einreise noch nicht absehbar waren und die Ihre Abreise aus dem Schengen-Raum unmöglich machen.<br />
+         </li>
+        <li><strong>Verspätete Anreise</strong>: Ein weiterer Grund für eine Schengen-Visum Verlängerung für das C-Visum kann eine verspätete Anreise sein, weshalb Sie Ihren 90-Tage-Aufenthalt nicht voll nutzen können. Auch in diesem Fall ließe sich Ihr Schengen-Visum verlängern, damit Sie sich insgesamt 90 Tage im Schengen-Raum aufhalten können.</li>
+</ul>
+
+<p><em><strong>Wichtig</strong>: Sie müssen Ihren Antrag auf Verlängerung des Visums immer stellen, wenn Ihr Visum noch gültig ist. Ein bereits abgelaufenes Schengen-Visum lässt sich nicht mehr verlängern!</em><br />
+ </p>
+
+<h2>Schengen-Visum Typ D: Kann man das Schengen-Visum verlängern?</h2>
+
+<p>Ja! Das Schengen-Visum Typ D, auch als nationales Visum bekannt, macht einen längerfristigen Aufenthalt ab 91 Tagen in der Schengen-Zone möglich. Das D-Visum wird für maximal 6 Monate (in manchen Fällen auch 12 Monate) ausgestellt und ist an einen bestimmten Schengen-Staat gebunden. Ist in Ihrem D-Visum keine territoriale Beschränkung ausgewiesen, so gilt für die anderen Schengen-Länder die übliche 90/180-Tage-Regel. Diese Art von Visum können Sie unter Angabe bestimmter Gründe vor Ort in dem jeweiligen Schengen-Land verlängern.<br />
+ </p>
+
+<p><em><strong>Bitte beachten Sie</strong>: Das nationale Visum wird oft nur mit einer einmaligen Einreise ausgestellt. Sie dürfen den Schengen-Raum daher nicht verlassen. Sollten Sie trotzdem Ihren Aufenthalt unterbrechen müssen und ausreisen, wird ihr D-Visum ungültig und Sie können kein zweites Mal einreisen! </em></p>
+
+<h3>In welchen Fällen kann man ein Schengen-Visum D verlängern?</h3>
+
+<p>Rechtzeitig vor dem Ablauf der Gültigkeit Ihres Einreisevisums müssen Sie eine <strong>Aufenthaltserlaubnis beantragen</strong>. Für diesen Vorgang müssen Sie allerdings bereits beim Einwohnermeldeamt registriert sein. Ohnehin sollten Sie wissen, dass <strong>in Deutschland eine Meldepflicht besteht</strong>, weshalb Sie sich beim Einwohnermeldeamt melden müssen, wenn Sie sich länger als 3 Monate in Deutschland aufhalten!<br />
+ </p>
+
+<p><strong>Diese Gründe sprechen für die Erteilung einer Aufenthaltserlaubnis:</strong></p>
+
+<ul>
+        <li>Humanitäre Gründe</li>
+        <li>Ausbildung, Studium oder Forschung</li>
+        <li>Familiennachzug</li>
+        <li>Arbeitsplatzsuche für Fachkräfte</li>
+        <li>Ausübung einer Beschäftigung, Nachgehen einer selbstständigen Tätigkeit oder Aufenthalt als Au-Pair</li>
+</ul>
+
+<h2>Wo kann ich ein Schengen-Visum verlängern?</h2>
+
+<p>Das Schengen-Visum D (nationales Visum) wird mit einer Gültigkeit von 3, 6 oder 12 Monaten ausgestellt. Geht Ihr Aufenthalt über die Dauer des Visums hinaus, müssen Sie eine Aufenthaltserlaubnis <strong>bei der örtlichen Ausländerbehörde</strong> beantragen. In diesem Fall wird Ihr nationales Visum in eine gültige Aufenthaltserlaubnis umgewandelt.<br />
+ </p>
+
+<p><em><strong>Wichtig</strong>: Stellen Sie den Antrag auf Verlängerung unbedingt vor Ablauf Ihres Visums bei der Ausländerbehörde! Der Antrag sollte zwei Monate, <strong>mindestens jedoch 4 bis 6 Wochen vor Ablauf Ihres Visums</strong> gestellt werden!</em></p>
+
+<h2>Wie kann ich ein Schengen-Visum verlängern?</h2>
+
+<p><strong>Dokumenten-Checkliste für einen Verlängerungsantrag:</strong></p>
+
+<ul>
+        <li>Ihren Reisepass mit dem gültigen Schengen-Visum, der auch über Ihre Ausreise hinaus mindestens 3 weitere Monate gültig ist</li>
+        <li>Ausgefüllten Antrag auf Verlängerung eines Schengen-Visums</li>
+        <li>Nachweis über finanziell gesicherten Lebensunterhalt</li>
+        <li>Weitere Nachweise, die Ihre Schengen-Visum Verlängerung belegen</li>
+        <li>Nachweis über einen ausreichenden Krankenversicherungsschutz</li>
+</ul>
+
+<p><em><strong>Gut zu wissen</strong>: Die <strong>AXA Schengen-Krankenversicherung</strong> bietet Ihnen bereits in der Low-Cost-Variante umfassenden Versicherungsschutz für bereits 22 € am Woche und eine Mindestdeckung von 30.000 Euro im medizinischen Notfall bei Krankheit, Unfall sowie den Rücktransport im Todesfall.</em></p>
+
+<h2>Diese Artikel könnten Sie auch interessieren</h2>
+
+<p><a href="https://www.axa-schengen.com/de/welche-laender-brauchen-ein-visum">Wer braucht ein Schengen-Visum? </a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/schengen-visa-arten">Welche unterschiedlichen Schengen-Visa-Arten gibt es?</a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/europaeische-union-visum">Ist das Schengen-Visum ein Visum für die Europäische Union?</a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/schengen-visum-antrag-formulare">Welche Dokumente brauche ich für den Schengen-Visum-Antrag?</a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/schengen-visum-gueltigkeit">Wie lange ist ein Schengen-Visum gültig?</a></p>
+
+<p><a href="https://www.axa-schengen.com/de/Lander-ausgew%C3%A4hlt-die-uber-Ihr-Visagesuch-mit-der-h%C3%B6chsten-Wahrscheinlichkeit-positiv-entscheiden">Welche Länder vergeben am einfachsten ein Schengen-Visum? </a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/schengen-visum-ueberschritten">Was passiert wenn das Schengen-Visum 90 Tage überschritten ist?</a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/schengen-visum-abgelehnt">Schengen-Visum abgelehnt: Was kann ich tun und wie kann ich vorbeugen?</a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/eu-visa-verordnung-2020">EU-Visa-Verordnung 2020: Was ist neu beim Schengen-Visum?</a></p>
+
+<p><a href="https://www.axa-schengen.com/de/schengen-visum/etias-visum">ETIAS oder Schengen Visum?</a></p>
+
+<h2>FAQ: Schengen-Visum Verlängerung</h2>
+</div>
+          </div>
+  
+      <div class="field field--name-field-fa field--type-faqfield field--label-hidden field__items">
+              <div class="field__item"><div id="faqfield_field_fa_node_1014"><h3 class="faqfield-question">Wie kann man Schengen-Visum verlängern?</h3><div class="faqfield-answer"><p>Ein Kurzzeit-Visum Typ C lässt sich nur in bestimmten Ausnahmefällen verlängern. Das nationale Visum (Schengen-Visum D) sieht ohnehin einen längerfristigen Aufenthalt in einem bestimmten Schengen-Staat vor und lässt sich sogar in einen Aufenthaltstitel umwandeln!</p></div><h3 class="faqfield-question">Wo kann man sein Visum verlängern?</h3><div class="faqfield-answer"><p>Wenn Sie Ihr Schengen-Visum verlängern können, dann sollten Sie Ihren Antrag auf Verlängerung zwei Monate,  mindestens aber 4-6 Wochen vor Ablauf Ihres Visums bei der zuständigen Ausländerbehörde einreichen. </p></div><h3 class="faqfield-question">Was braucht man um den Aufenthalt zu verlängern?</h3><div class="faqfield-answer"><p>Um Ihr Schengen-Visum verlängern zu können, müssen Sie unterschiedliche Unterlagen bei der Ausländerbehörde einreichen. Hierzu gehören der ausgefüllte Antrag, ein gültiger Pass, Finanzierungsnachweise, Nachweise über die Gründe zur Verlängerung sowie den Nachweis über einen ausreichenden Krankenversicherungsschutz etc.</p></div></div></div>
+          </div>
+  
+    </div>
+  </div>
+
+
+<div id="block-boutonsdesouscriptionde" class="block block-block-content block-block-content29a810fe-1b3a-4de7-b539-4adc46b3f025">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="btnQuoteContent aboveFooterQuoteMeBtn"><a class="btn__cta__primary" href="https://subscribe.axa-schengen.com/de/step1">SCHENGEN-VERSICHERUNG</a></p>
+</div>
+      
+
+</div>
+
+
+  </div>
+
+
+
+    </main>
+
+    
+      </div>
+  
+    
+<footer class="footer " role="contentinfo">
+<div>
+      <nav role="navigation" aria-labelledby="block-footer-4-menu" id="block-footer-4" class="block block-menu navigation menu--menu-footer">
+            
+    
+
+        
+              <ul class="menu">
+                         
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/schengen-visum-beantragens" title="SCHENGEN VISUM" data-drupal-link-system-path="node/1006">SCHENGEN VISUM</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/wir-ueber-uns" title="ABOUT US" data-drupal-link-system-path="node/15">WIR ÜBER UNS</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/kontaktiere-uns" title="KONTAKTIERE UNS" data-drupal-link-system-path="node/609">KONTAKTIERE UNS</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/cookies-policy-page" title="COOKIES" data-drupal-link-system-path="node/667">COOKIES</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/politik-bei-interessenkonflikten" title="INTERESSENKONFLIKT" data-drupal-link-system-path="node/311">INTERESSENKONFLIKT</a>
+                </span>
+        </li>
+                    </ul>
+  
+
+  </nav>
+<div id="block-travel" class="block block-block-content block-block-contente084d280-be00-4d29-932b-3ca05a450eb8">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="footertag">Travel Insurance</p></div>
+      
+
+</div>
+
+
+  </div>
+<nav role="navigation" aria-labelledby="block-secondaryfooter-2-menu" id="block-secondaryfooter-2" class="block block-menu navigation menu--secondary-footer">
+            
+    
+
+        
+              <ul class="menu">
+                         
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/FAQ" title="FAQ" data-drupal-link-system-path="node/269">FAQ</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/disclaimer" title="DISCLAIMER" data-drupal-link-system-path="node/909">DISCLAIMER</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/schengen-visum-reiseversicherung" title="SCHENGEN VISUM-REISEVERSICHERUNG">SCHENGEN VISUM-REISEVERSICHERUNG</a>
+                </span>
+        </li>
+                    </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-axa-zen-footer-menu" id="block-axa-zen-footer" class="block block-menu navigation menu--footer">
+            
+    <h2 class="visually-hidden" id="block-axa-zen-footer-menu">Fußzeilenmenü</h2>
+    
+
+        
+              <ul class="menu">
+                         
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/procedures" title="PROCEDURES" data-drupal-link-system-path="node/13">ABLAUF</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/datenschutz" title="DATENSCHUTZ COOKIES" data-drupal-link-system-path="node/87">DATENSCHUTZ COOKIES</a>
+                </span>
+        </li>
+                                 
+                               
+  
+                    <li class="menu-item menu-footer">
+        <span class = "menu_link menu_footer obsc" >
+        <a href="/de/coronavirus" title="CORONA REISEVERSICHERUNG IN EUROPA" data-drupal-link-system-path="node/612">CORONA REISEVERSICHERUNG IN EUROPA</a>
+                </span>
+        </li>
+                    </ul>
+  
+
+  </nav>
+<div id="block-followus" class="block block-block-content block-block-contente4931110-377a-4fc7-9703-1e271bfd7c0a">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="followustag">Follow AXA Assistance</p>
+</div>
+      
+
+</div>
+
+
+  </div>
+<div id="block-socialmedialinks" class="block-social-media-links block block-social-media-links-block">
+  
+    
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+                         
+           <li class="menu-footer"  data-o = aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2F4YS5hc3Npc3RhbmNlLz9mcmVmPXRz >
+      <a class="social-media-link-icon--facebook"   aria-label="Facebook" title="Facebook" style="cursor:pointer" >
+              <img src="themes/axa_zen/images/icons8-facebook-f.svg" width="16" height="16"/>
+               </a>
+
+          </li>
+     
+                                     <li class="menu-footer"  data-o = aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvMTExNDk/dHJrPXR5YWgmdHJrSW5mbz1jbGlja2VkVmVydGljYWwlM0Fjb21wYW55JTJDY2xpY2tlZEVudGl0eUlkJTNBMTExNDklMkNpZHglM0EzLTEtOCUyQ3RhcklkJTNBMTQ1MDA5NTU2ODY0OSUyQ3RhcyUzQWF4YSUyMGFzcw== >
+      <a class="social-media-link-icon--linkedin"   aria-label="Linkedin" title="Linkedin" style="cursor:pointer" >
+                 <img src="themes/axa_zen/images/icons8-linkedin-2-30.svg" width="16" height="16" />
+               </a>
+
+          </li>
+     
+                                     <li class="menu-footer"  data-o = aHR0cHM6Ly90d2l0dGVyLmNvbS9BWEFfQXNzaXN0YW5jZT9sYW5nPWZy >
+      <a class="social-media-link-icon--twitter"   aria-label="Twitter" title="Twitter" style="cursor:pointer" >
+                  <img src="themes/axa_zen/images/icons8-twitter-30.svg" width="16" height="16" />
+                </a>
+
+          </li>
+     
+  </ul>
+
+  </div>
+
+  </div>
+</footer>
+
+
+</div>
+
+
+<div id="block-copyrights-2" class="block block-block-content block-block-content1e193ca2-bbf1-453e-80a9-8e729f868593">
+  
+    
+      <div class="block-content block-content--type-basic block-content--view-mode-default ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p style="padding-right: 20px;&#10;    font-size: 13px;&#10;    line-height: 1.6em;&#10;    text-align: center;&#10;    color: white;">Copyright AXA Assistance 2023 © AXA Assistance is represented by INTER PARTNER ASSISTANCE SA/NV, a public limited liability company governed by Belgian law with registered office at Regentlaan 7, 1000 Brussel, Belgium – Insurance company authorized by the National Bank of Belgium under number 0487 and registered with the Crossroads Bank for Enterprises under number 0415 591 055 – RPR Brussels- VAT BE0415 591 055</p>
+
+<p style="padding-right: 20px;&#10;    font-size: 13px;&#10;    line-height: 1.6em;&#10;    text-align: center;&#10;    color: white;"><a href="https://www.axa-travel-insurance.com/" target="_blank">AXA Travel Insurance Global</a> | <a href="https://www.assicurazione-viaggio.axa-assistance.it/" target="_blank">AXA Assicurazione Viaggio</a> | <a href="https://www.assurance-voyage.axa-assistance.fr/" target="_blank">AXA Assurance Voyage</a> | <a href="https://www.axa-assistance-segurodeviaje.es/" target="_blank">AXA Seguros y asistencia en viajes</a> | <a href="https://www.viagemsegura.pt/pt" target="_blank">AXA Seguro de viagem</a></p>
+</div>
+      
+
+</div>
+
+
+  </div>
+
+
+
+  </div>
+
+  
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"de\/","currentPath":"node\/1014","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":0}}},"faqfield":{"#faqfield_field_fa_node_1014":{"active":0,"heightStyle":"auto","collapsible":false,"event":"click","animate":{"easing":"linear","duration":200}}},"ajaxTrustedUrl":{"\/de\/search\/node":true},"user":{"uid":0,"permissionsHash":"1854512491148c98724c9b803fc1aa244f8fe9cc423e82cabef41d0e25bc93f7"}}</script>
+<script src="/sites/default/files/js/js_GDToDx_9j89UroU8FpL6FHaOUpyRMVAWllRaM1XxdPM.js"></script>
+
+  </body>
+</html>

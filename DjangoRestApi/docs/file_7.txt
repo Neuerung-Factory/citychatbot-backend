@@ -1,0 +1,657 @@
+<!DOCTYPE HTML>
+<html lang="de" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="dvv-Mastertemplates 10.4.2.6-RELEASE">
+<meta name="keywords" content="Landkreis Konstanz">
+<meta name="description" content="Landkreis Konstanz Die Ausländerbehörde erteilt und verlängert auf Antrag die Aufenthaltserlaubnis für bestimmte Aufenthaltszwecke.
+ Sie können die Aufenthaltserlaubnis ...">
+<meta name="author" content="Landkreis Konstanz">
+<meta name="copyright" content="Landkreis Konstanz">
+<meta name="og:title" content="Lebenslagen von A-Z">
+<meta name="og:description" content="Landkreis Konstanz Die Ausländerbehörde erteilt und verlängert auf Antrag die Aufenthaltserlaubnis für bestimmte Aufenthaltszwecke.
+ Sie können die Aufenthaltserlaubnis ...">
+<meta name="og:type" content="website">
+<meta name="og:locale" content="de">
+<meta name="og:url" content="https://www.lrakn.de/service+_+administration/lebenslagen+von+a-z">
+<meta name="geo.placename" content="Benediktinerplatz 1, 78467 Konstanz, Deutschland">
+<meta name="geo.region" content="DE-BW">
+<meta name="geo.position" content="47.6694776;9.177367600000025">
+<meta name="ICBM" content="47.6694776,9.177367600000025">
+<meta name="robots" content="index, follow">
+<title>Lebenslagen von A-Z | Landkreis Konstanz</title>
+<link rel="shortcut icon" href="/site/lrakn/resourceCached/10.3.4.2/img/favicon/favicon.ico">
+<link rel='apple-touch-icon' sizes='57x57' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-57x57.png'>
+<link rel='apple-touch-icon' sizes='60x60' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-60x60.png'>
+<link rel='apple-touch-icon' sizes='72x72' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-72x72.png'>
+<link rel='apple-touch-icon' sizes='76x76' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-76x76.png'>
+<link rel='apple-touch-icon' sizes='114x114' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-114x114.png'>
+<link rel='apple-touch-icon' sizes='120x120' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-120x120.png'>
+<link rel='apple-touch-icon' sizes='144x144' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-144x144.png'>
+<link rel='apple-touch-icon' sizes='152x152' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-152x152.png'>
+<link rel='apple-touch-icon' sizes='180x180' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/apple-icon-180x180.png'>
+<link rel='icon' type='image/png' sizes='192x192' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/android-icon-192x192.png'>
+<link rel='icon' type='image/png' sizes='32x32' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/favicon-32x32.png'>
+<link rel='icon' type='image/png' sizes='96x96' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/favicon-96x96.png'>
+<link rel='icon' type='image/png' sizes='16x16' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/favicon-16x16.png'>
+<link rel='manifest' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/manifest.json'>
+<link rel='shortcut icon' href='/site/lrakn/resourceCached/10.3.4.2/img/favicon/favicon.ico'>
+<link href="/common/js/jQuery/themes/base/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<link href="/common/js/jQuery/external/bxSlider/jquery.bxslider.css" rel="stylesheet" type="text/css">
+<link href="/site/lrakn/resourceCached/10.3.4.2/css/master.css" rel="stylesheet" type="text/css">
+<link href="/common/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="/site/lrakn/resourceCached/10.3.4.2/css/zm-custom.css" rel="stylesheet" type="text/css">
+<script src="/site/lrakn/resourceCached/10.3.4.2/vendors/mburger/mburger.js" type="module"></script>
+<script src="https://www.lrakn.de/ccm19os/os19ccm/public/index.php/app.js?apiKey=839590972b862f95a33e5dab255171748623b11b20e934da&amp;domain=a770d35" referrerpolicy="origin"></script>
+<script src="/common/js/jQuery/jquery-3.6.0.min.js"></script>
+<script src="/common/js/jQuery/external/hoverIntent/jquery.hoverIntent.min.js"></script>
+<script src="/common/js/jQuery/external/superfish/js/superfish.min.js"></script>
+<script src="/common/js/jQuery/external/bxSlider/jquery.bxslider.min.js"></script>
+<script src="/common/js/jQuery/external/equalheights/jquery.equalheights.js"></script>
+<script src="/common/js/jQuery/external/cookie/js.cookie.js"></script>
+<script src="/common/js/jQuery/ui/jquery-ui.min.js"></script>
+<script src="/common/js/jQuery/external/dvvUiDisclosure/disclosure.min.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/mergedScript_de.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/js/jquery.meanmenu.min.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/js/counter.min.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/js/jquery.easing.1.3.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/js/swiper-bundle.min.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/vendors/mmenu/mmenu.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/js/mobilemenu.js"></script>
+<script src="/site/lrakn/resourceCached/10.3.4.2/js/jquery.scrollToTop.min.js"></script>
+<script defer src="/site/lrakn/resourceCached/10.3.4.2/search-autocomplete/autocomplete.js"></script>
+<script>
+jQuery.noConflict();
+function replMail(href)
+{
+  if (typeof href == "undefined") {return "";}
+  var atSign = "[klammerAffe]";
+  href = href.replace(atSign, "@");
+  var mailTo = "[eMail]";
+  href = href.replace(mailTo, "mailto:");
+  var dotSign = "\\[punkt\\]";
+  var re = new RegExp(dotSign, "g");
+  href = href.replace(re, ".");
+  return href;
+}
+jQuery(document).ready(function(){
+  jQuery("a.mailLink,a.email").each(function(){
+    var a = jQuery(this);
+    a.attr({href:replMail(a.attr('href'))});
+    a.html(replMail(a.html()));
+  });
+});
+jQuery(function(){jQuery('#nav-top ul').superfish({ delay: 1000}); });
+jQuery(document).ready(function(){jQuery('#header nav.ym-hlist').meanmenu({meanScreenWidth:'829'}); });
+jQuery(function(){jQuery('.bxslider').bxSlider({ auto: true, pause: 7000, autoHover: true, easing: 'easeInCubic', speed: 2000 });});
+jQuery(function(){jQuery('#row_2858628').bxSlider({slideWidth: 400, minSlides: 3, maxSlides: 6, slideMargin: 20, touchEnabled:false, moveSlides: 1});});
+jQuery(function(){jQuery('#row_2907854').bxSlider({slideWidth: 400, minSlides: 3, maxSlides: 6, slideMargin: 20, touchEnabled:false, moveSlides: 1});});
+jQuery(function(){jQuery('#row_2422618').bxSlider({slideWidth: 1170, minSlides: 1, maxSlides: 1, slideMargin: 0, moveSlides: 1});});
+jQuery(function(){jQuery('#row_2443736').bxSlider({slideWidth: 1170, minSlides: 3, maxSlides: 6, slideMargin: 20, moveSlides: 1});});
+jQuery(function(){jQuery('.basecontent-dvv-rss .rumpf').bxSlider({slideWidth: 400, minSlides: 3, maxSlides: 6, slideMargin: 20, moveSlides: 1});});
+jQuery(function(){jQuery('#toTop').scrollToTop(1000);});
+jQuery(function(){jQuery('#lpSeite .leistungen .details > div').accordion({collapsible: true, active: false}); });
+jQuery(function () {
+    jQuery('.pbsearch-autocomplete').pbsearch_autocomplete({
+        url: '/site/lrakn/search-autocomplete/2030388/index.html',
+        delay: 300,
+        maxTerms: 5,
+        minLength: 3,
+        rows: 20,
+        avoidParallelRequests: true
+    });
+});
+jQuery(function () {
+    jQuery('.pbsearch-autocomplete').pbsearch_autocomplete({
+        url: '/site/lrakn/search-autocomplete/2149517/index.html',
+        delay: 300,
+        maxTerms: 5,
+        minLength: 3,
+        rows: 20,
+        avoidParallelRequests: true
+    });
+});
+</script>
+<link href="/site/lrakn/resourceCached/10.3.4.2/service-bw/css/sbw.css" rel="stylesheet" type="text/css">
+<link href="/site/lrakn/resourceCached/10.3.4.2/css/swiper-bundle.min.css" rel="stylesheet" type="text/css">
+<link href="/site/lrakn/resourceCached/10.3.4.2/vendors/mburger/mburger.css" rel="stylesheet" type="text/css">
+<link href="/site/lrakn/resourceCached/10.3.4.2/vendors/mmenu/mmenu.css" rel="stylesheet" type="text/css">
+<link href="/site/lrakn/resourceCached/10.3.4.2/css/custom.css" rel="stylesheet" type="text/css">
+<link href="/site/lrakn/resourceCached/10.3.4.2/css/mobile.css" rel="stylesheet" type="text/css">
+</head>
+<body id="node2149517" class="knot_2033571 body_node level2 id-home2030388 lrakn-main">
+<a aria-hidden="true" aria-label="Login-Formular für Online-Redakteure" class="logon" href="/auth/index.html?secure=true&amp;url=%2F,Len%2F-%2F2149517%2F;leb5000122" id="loginout" rel="nofollow" tabindex="-1"><img src='/master/img/leer8x8.gif' alt='' title='Redaktions-Login' width='20' height='20'></a>
+<div class="ym-grid ym-noprint ym-wrapper">
+        <ul class="ym-skiplinks">
+                <li><a class="ym-skip" href="#navigation">Gehe zum Navigationsbereich</a></li>
+                <li><a class="ym-skip" href="#inhalt">Gehe zum Inhalt</a></li>
+        </ul>
+</div>
+        <div class="site-wrapper">
+
+
+                <div class="l-hamburger">
+                        <div class="l-hamburger-menu mobile-nav-button-wrapper">
+  <a class="mburger mburger--collapse" id="mobile-nav-button" aria-label="Öffne das Hauptmenü" tabindex="0">
+    <b></b>
+    <b></b>
+    <b></b>
+    <span>Menü</span>
+  </a>
+</div>                </div>
+                <!-- top-custom-main.vm start -->
+<header id="header">
+<div class="l-header__wrapper">
+        <div class="l-header__inner">
+                <div class="l-header__brand">
+                        <div class="brand" role="banner">
+                                <a href="/startseite" title="Zur Startseite: LRAKN" aria-label="Zur Startseite: Landkreis Konstanz">
+                                        <img src="/site/lrakn/resourceCached/10.3.4.2/img/logo_lrakn-mitZusatz.png" alt="Logo: LRAKN (Link zur Startseite)">
+                                        <span class="logo-subheadline"></span>
+                                </a>
+                        </div>
+                </div>
+        <div class="l-header__func-nav">
+                <div class="l-header__func-nav__inner">
+
+
+                        <div class="l-header__search">
+                                                                        <div class="topsearch">
+<form class="c-quicksearch noprint" name="search" action="/site/lrakn/search/2149517/quickSearchResult.html" role="search" method="GET">
+                <input type="hidden" name="quicksearch" value="true">
+        <input class="c-quicksearch__input pbsearch-autocomplete" name="query" id="qs_query" type="search" placeholder="Suche" aria-label="" onFocus="if(this.value == this.defaultValue){this.value = '';}">
+       <div class="input-group-append c-quicksearch__button-wrapper"> <button class="c-quicksearch__button" type="submit" value="Search" aria-label="Suche starten"><i class="fas fa-search"></i></button></div>
+</form>
+
+                                        </div>
+                                                        </div>
+                        <div class="l-header__funktionslinks">
+                                        <nav>
+                                                <ul>
+
+
+
+                                                                <li class="fl-leichtesprache"><a href="/strukturseiten/barrierefreiheit/leichte+sprache" class="leichtesprache" title="Leichte Sprache" aria-label="Leichte Sprache">Leichte Sprache</a></li>
+
+                                                                <li class="fl-gebeardensprache"><a href="/strukturseiten/gebaerdensprache" class="gebeardensprache" title="Gebärdensprache" aria-label="Gebärdensprache">Gebärdensprache</a></li>
+
+                                                                <li class="fl-barrierefreiheit"><a href="/strukturseiten/barrierefreiheit" class="barrierefreiheit" title="Barrierefreiheit" aria-label="Barrierefreiheit">Barrierefreiheit</a></li>
+
+
+                                                                                                                                <li class="fl-kontrast">
+<a class="active" data-contrast="" href="javascript:switchStyle('contrast','')" rel="nofollow"><span class='kontrast-normal' title='Ändere Kontrasteinstellungen auf Normaler Kontrast'><i class='fas fa-adjust' aria-hidden='true'></i></span></a> <a data-contrast="BW" href="javascript:switchStyle('contrast','BW')" rel="nofollow"><span class='kontrast-inverse' title='Ändere Kontrasteinstellungen auf Schwarze Schrift auf weißem Grund'><i class='fas fa-adjust fa-rotate-180' aria-hidden='true'></i></span></a>
+                                                        </li>
+
+
+                                                <li class="fl-textgroesse">
+                                                        <button class="textgroesse" id="button-textgroesse" aria-label="Zeige mir Informationen zur Veränderung der Textgröße an">
+                                                                <i class="fas fa-text-height"></i>
+                                                        </button>
+                                                </li>
+                                        </ul>
+                                        </nav>
+                        </div>
+                </div>
+        </div>
+                </div>
+        </div>
+        <div class="ym-g100 LogoNavi-container">
+                <div class="ym-g100 LogoNavi">
+                        <div class="ym-wrapper">
+                                <div class="ym-wbox" id="navigation">
+                                        <nav class="ym-g100 ym-hlist" id="nav-top">
+                                                                                                        <ul class="ym-vlist nav_2030388 ebene1">
+ <li class="nav_2033571 ebene1 hasChild currentParent child_1"><a href="/,Len/service+_+administration" hreflang="en" lang="en"> Service &amp; administration</a></li>
+ <li class="nav_2042663 ebene1 hasChild child_2"><a href="/,Len/2042663" hreflang="en" lang="en">districts and politics</a>
+  <ul class="nav_2042663 ebene2">
+   <li class="nav_2042669 ebene2 child_1"><a href="/,Len/county+commissionar" hreflang="en" lang="en">county commissionar</a></li>
+   <li class="nav_2042682 ebene2 hasChild child_2"><a href="/,Len/county+concil" hreflang="en" lang="en">county concil</a></li>
+   <li class="nav_2042752 ebene2 hasChild child_3"><a href="/,Len/cities+and+municipalities" hreflang="en" lang="en">cities and municipalities</a>
+    <ul class="nav_2042752 ebene3">
+     <li class="nav_2042767 ebene3 child_1"><a href="/,Len/cities+and+municipalities/interactive+map" hreflang="en" lang="en">interactive map</a></li>
+    </ul> </li>
+   <li class="nav_2042742 ebene2 child_4"><a href="/,Len/numbers+and+facts" hreflang="en" lang="en">numbers and facts</a></li>
+   <li class="nav_2042778 ebene2 hasChild child_5"><a href="/,Len/elections" hreflang="en" lang="en">elections</a>
+    <ul class="nav_2042778 ebene3">
+     <li class="nav_2042890 ebene3 child_2"><a href="/,Len/2042890" hreflang="en" lang="en">State election</a></li>
+    </ul> </li>
+   <li class="nav_2878187 ebene2 child_6"><a href="/,Len/history+of+the+county" hreflang="en" lang="en">History of the county</a></li>
+  </ul> </li>
+ <li class="nav_2033604 ebene1 hasChild child_3"><a href="/,Len/business+development+and+tourism" hreflang="en" lang="en">business development and tourism</a></li>
+</ul>
+                                                                                        </nav>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</header>
+<div class="l-header__stage">
+
+                        <div class="c100m ym-g100" id="stage">
+                                        <a id="anker2030406"></a><div class="composedcontent-dvv-row subcolumns linearize-level-2" id="row_2030406">
+  <div id="id2030413" class="ym-g100">
+    <div class="subcl"><a id="anker2030413"></a>
+      <div class="composedcontent-dvv-column2 subrows" id="col_2030413">
+        <div id="id2030414">
+          <div><a id="anker2030414"></a>
+            <article class="composedcontent-dvv-box boxborder block_2030414" id="cc_2030414">
+              <div id="boxid2263353" class="boxChild"><figure class="basecontent-image image resized resizedW1920 resizedH500" id="anker2263353"><div class='image-inner' id='img_2263353'><img alt="Luftaufnahme von konstanz bei schönem Wetter" src="/site/lrakn/data/2030388/resize/Konstanz_Hoernle_Mende_7335_web.jpg?f=%2Fsite%2Flrakn%2Fget%2Fparams_E1926060010%2F2263353%2FKonstanz_Hoernle_Mende_7335_web.jpg&amp;w=1920&amp;h=500&amp;m=C"></div></figure></div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                </div>
+<div class="ws-wrapper">
+
+
+
+                                                        <div class="ym-g100" id="schnellzugriff">
+                                        <div class="ym-wrapper">
+                                                <div class="ym-wbox">
+                                                        <a id="anker2034246"></a><div class="composedcontent-dvv-row subcolumns linearize-level-2" id="row_2034246">
+  <div id="id2188946" class="ym-g25 ym-gl">
+    <div class="subcl"><a id="anker2188946"></a>
+      <div class="composedcontent-dvv-column2 subrows" id="col_2188946">
+        <div id="id2188947">
+          <div><a id="anker2188947"></a>
+            <article class="composedcontent-dvv-box boxborder block_2188947 fa-newspaper-o fa" id="cc_2188947">
+              <div id="boxid2188950" class="boxChild">
+                <p class="basecontent-line-break-text ueberschrift" id="anker2188950"><a class="internerLink" href="/,Len/service+_+administration/Pressemitteilungen" title="Aktuelle Pressemitteilungen">Aktuelles</a></p>
+
+              </div>
+              <div id="boxid2865251" class="boxChild">
+                <div class="basecontent-list align-left" id="anker2865251">
+                  <ul><li><a class="internerLink" href="/,Len/service+_+administration/oeffentliche+bekanntmachungen" title="Bekanntmachungen">Bekanntmachungen</a></li></ul>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="id2034253" class="ym-g25 ym-gl">
+    <div class="subc"><a id="anker2034253"></a>
+      <div class="composedcontent-dvv-column2 subrows" id="col_2034253">
+        <div id="id2034254">
+          <div><a id="anker2034254"></a>
+            <article class="composedcontent-dvv-box boxborder block_2034254 fa-globe fa" id="cc_2034254">
+              <div id="boxid2188951" class="boxChild">
+                <p class="basecontent-line-break-text ueberschrift" id="anker2188951"><a class="internerLink" href="/,Len/service+_+administration/online-terminbuchung" title="Online-Terminbuchung">Online-Termine</a></p>
+
+              </div>
+              <div id="boxid2865252" class="boxChild">
+                <div class="basecontent-list align-left" id="anker2865252">
+                  <ul><li><a class="internerLink" href="/,Len/service+_+administration/lebenslagen+von+a-z" title="Lebenslagen ">Lebenslagen A-Z</a></li></ul>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="id2034259" class="ym-g25 ym-gl">
+    <div class="subc"><a id="anker2034259"></a>
+      <div class="composedcontent-dvv-column2 subrows fa-bank fa" id="col_2034259">
+        <div id="id2034260">
+          <div><a id="anker2034260"></a>
+            <article class="composedcontent-dvv-box boxborder block_2034260" id="cc_2034260">
+              <div id="boxid2188952" class="boxChild">
+                <p class="basecontent-line-break-text ueberschrift" id="anker2188952"><a class="internerLink" href="/,Lde/service-und-verwaltung/aemter" title="Ämter">Ämter</a></p>
+
+              </div>
+              <div id="boxid2865253" class="boxChild">
+                <div class="basecontent-list align-left" id="anker2865253">
+                  <ul><li><a class="internerLink" href="/,Len/service+_+administration/adressen+_+lageplan" title="Standorte">Standorte</a></li></ul>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="id2034265" class="ym-g25 ym-gr">
+    <div class="subcr"><a id="anker2034265"></a>
+      <div class="composedcontent-dvv-column2 subrows fa-group fa" id="col_2034265">
+        <div id="id2034266">
+          <div><a id="anker2034266"></a>
+            <article class="composedcontent-dvv-box boxborder block_2034266" id="cc_2034266">
+              <div id="boxid2188953" class="boxChild">
+                <p class="basecontent-line-break-text ueberschrift" id="anker2188953"><a class="internerLink" href="/,Lde/service-und-verwaltung/aemter/hauptamt/personal+und+ausbildung" title="Karriere">Karriere</a></p>
+
+              </div>
+              <div id="boxid2865254" class="boxChild">
+                <div class="basecontent-list align-left" id="anker2865254">
+                  <ul><li><a class="internerLink" href="/,Len/service+_+administration/aemter/hauptamt/stellenangebote" title="Stellenangebote">Stellenangebote</a></li></ul>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                                                </div>
+                                        </div>
+                                </div>
+                </div>
+</div>
+<!-- top-custom-main.vm end -->
+        <div id="main" class="ym-clearfix" role="main">
+
+
+
+
+
+                                                                        <div class="ym-wrapper ym-wayhome-wrapper">
+                                                <div class="ym-wbox">
+                                                        <div class="wayhome noprint">
+
+                                                                <nav class="c-breadcrumb" aria-label="breadcrumb">
+                                                                        <span class="sr-only">Sie sind hier:</span> <ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="/,Len/home" hreflang="en" lang="en">Home</a></li>
+<li class="breadcrumb-item"><a href="/,Len/service+_+administration" hreflang="en" lang="en"> Service &amp; administration</a></li>
+<li class="breadcrumb-item current"><span aria-current="page" class="active">Lebenslagen von A-Z</span></li>
+</ol>
+
+                                                                </nav>
+
+                                                        </div>
+                                                </div>
+                                        </div>
+          <div class="ym-wrapper">
+
+                <div class="ym-column">
+
+                                          <div class="ym-col1">
+                                <div class="ym-cbox">
+<nav class="nav-outer">
+<nav class="ym-vlist ym-noprint">
+
+        <h3><a href="/service+_+administration">Service & Verwaltung</a></h3>
+        <ul class="ym-vlist nav_2033571 ebene2">
+ <li class="nav_2046865 ebene2 hasChild child_1"><a href="/service+_+administration/aemter">Ämter und Organigramm</a></li>
+ <li class="nav_2172448 ebene2 child_2"><a href="/service+_+administration/adressen+_+lageplan">Adressen &amp; Lageplan</a></li>
+ <li class="nav_2172372 ebene2 child_3"><a href="/service+_+administration/oeffnungszeiten">Öffnungszeiten</a></li>
+ <li class="nav_3343567 ebene2 child_4"><a href="/service+_+administration/online-terminbuchung">Online-Terminbuchung</a></li>
+ <li class="nav_2149517 ebene2 hasChild current child_5"><a aria-current="page" class="active" href="/service+_+administration/lebenslagen+von+a-z">Lebenslagen von A-Z</a>
+  <ul class="nav_2149517 ebene3">
+   <li class="nav_2149528 ebene3 child_1"><a href="/service+_+administration/lebenslagen+von+a-z/allgemeine+dienstleistungen">Allgemeine Dienstleistungen</a></li>
+   <li class="nav_2143030 ebene3 child_2"><a href="/service+_+administration/lebenslagen+von+a-z/kfz-wesen">KFZ-Wesen</a></li>
+  </ul> </li>
+ <li class="nav_2192143 ebene2 child_6"><a href="/service+_+administration/Pressemitteilungen">Pressemitteilungen</a></li>
+ <li class="nav_2188934 ebene2 child_7"><a href="/service+_+administration/veranstaltungskalender">Veranstaltungskalender</a></li>
+ <li class="nav_2938477 ebene2 hasChild child_8"><a href="/service+_+administration/oeffentliche+bekanntmachungen">Öffentliche Bekanntmachungen</a></li>
+</ul>
+</nav></nav>
+
+                                                                  </div>
+                          </div>
+                                          <div class="ym-col2 ym-col2wide">
+                                            <div class="ym-cbox" id="inhalt">
+                                <!-- content-custom.vm start -->
+<a id="pageTop"></a>
+<section id="content">
+<!-- url_module = /service-bw/index.vm -->
+<div id="lpSeite" class="vwp lebenslagen">
+
+
+
+
+ <!-- lebenslagen-details -->
+<div class="details">
+    <h1 class="titel">Aufenthaltserlaubnis</h1>
+    <div class="detailnavigation">
+
+        <div class="wayhome">
+                <span class="root"><a href="/lebenslagen+von+a-z">Show all aspects of daily life</a></span>
+                            <span class="trenner"> | </span>
+                <span class="way"><a
+                        href="/-/lebenslagen+von+a-z/zuwanderung/leb5000993"
+                        title="&Uuml;bergeordnete Lebenslage anzeigen">Zuwanderung</a></span>
+                            <span class="trenner"> | </span>
+                <span class="way"><a
+                        href="/-/lebenslagen+von+a-z/einreise-und-aufenthaltstitel/leb5000405"
+                        title="&Uuml;bergeordnete Lebenslage anzeigen">Einreise und Aufenthaltstitel</a></span>
+                            <span class="trenner"> | </span>
+                <span class="way"><a
+                        href="/-/lebenslagen+von+a-z/aufenthaltserlaubnis/leb5000122"
+                        title="&Uuml;bergeordnete Lebenslage anzeigen">Aufenthaltserlaubnis</a></span>
+                    </div>
+                            <ul class="kinder">
+                            </ul>     </div>
+        <div class="section section-preamble"><div class="section-text"><p>Die Ausländerbehörde erteilt und verlängert auf Antrag die Aufenthaltserlaubnis für bestimmte Aufenthaltszwecke. <br>
+ Sie können die Aufenthaltserlaubnis in der Regel erst nach der Einreise mit einem nationalen Visum auf Antrag erhalten. <br>
+ In besonderen Fällen (zum Beispiel bei Hochqualifizierten) kommt auch sofort eine Niederlassungserlaubnis in Betracht.</p>
+<p>Das Aufenthaltsgesetz kennt folgende Aufenthaltszwecke:</p>
+<ul>
+ <li>Ausbildung</li>
+ <li>Erwerbstätigkeit</li>
+ <li>völkerrechtliche, humanitäre oder politische Gründe</li>
+ <li>familiäre Gründe</li>
+</ul>
+<p>Hinzu kommen noch besondere Aufenthaltsrechte, beispielsweise das Recht auf Wiederkehr und Aufenthaltstitel für ehemalige Deutsche.</p>
+<p><strong>Hinweis: </strong>In Ausnahmefällen kann auch eine Aufenthaltserlaubnis für einen im Aufenthaltsgesetz nicht vorgesehenen Aufenthaltszweck erteilt werden.</p>
+<p>Die Erteilung einer Aufenthaltserlaubnis setzt unter anderem voraus, dass</p>
+<ul>
+ <li>Sie mit dem erforderlichen Visum eingereist sind und die für die Erteilung der Aufenthaltserlaubnis maßgeblichen Angaben bereits im Visumantrag gemacht haben (insbesondere zum Zweck Ihres Aufenthalts),</li>
+ <li>Ihre Identität geklärt ist und Sie die Passpflicht erfüllen,</li>
+ <li>der Lebensunterhalt ohne Inanspruchnahme öffentlicher Mittel gesichert ist,<br>
+  (Der Lebensunterhalt gilt als gesichert, wenn Einkünfte mindestens in Höhe des einfachen Sozialhilferegelsatzes zuzüglich der Kosten für Unterkunft und Heizung sowie etwaiger Krankenversicherungsbeiträge erzielt werden. In einigen Fällen gelten Sonderregelungen.)</li>
+ <li>kein Ausweisungsinteresse vorliegt und</li>
+ <li>soweit kein Anspruch auf einen Aufenthaltstitel besteht, Ihr Aufenthalt nicht aus einem sonstigen Grund Interessen der Bundesrepublik Deutschland beeinträchtigt oder gefährdet.</li>
+</ul>
+<p>Weitere Voraussetzungen ergeben sich aus dem jeweiligen Aufenthaltszweck, für den die Aufenthaltserlaubnis erteilt werden soll.</p>
+<p><strong>Hinweis: </strong>Die Erteilung einer Aufenthaltserlaubnis kommt innerhalb der Frist des Einreise- und Aufenthaltsverbots nicht in Betracht, wenn Sie ausgewiesen, abgeschoben oder zurückgeschoben worden sind.</p>
+<p>Die Geltungsdauer der Aufenthaltserlaubnis ist befristet.</p>
+<p>Einem im Bundesgebiet geborenen Kind kann von Amts wegen eine Aufenthaltserlaubnis erteilt werden, wenn zumindest ein sorgeberechtigter Elternteil eine Aufenthaltserlaubnis, eine Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt-EU besitzt.</p>
+<p>Wenn Sie als Ausländer die Rechtsstellung eines langfristig Aufenthaltsberechtigten in einem der anderen Mitgliedstaaten der Europäischen Union (EU) besitzen (nationaler Aufenthaltstitel des anderen EU-Staates mit der Bezeichnung "Daueraufenthalt-EU" in der jeweiligen Amtssprache), können Sie in der Regel für Deutschland eine Aufenthaltserlaubnis erhalten, wenn Sie sich länger als 90 Tage in Deutschland aufhalten wollen. <br>
+ Die Aufenthaltserlaubnis berechtigt dann zur Ausübung einer Erwerbstätigkeit, wenn die hierfür in den Bestimmungen über den Aufenthalt zum Zweck der Erwerbstätigkeit beziehungsweise der Ausbildung genannten Voraussetzungen erfüllt sind. <br>
+ Die Aufenthaltserlaubnis kann unter anderem widerrufen werden, sobald die Rechtsstellung eines langfristig Aufenthaltsberechtigten nicht mehr gültig ist.</p></div></div>
+            <div class="leistungen">
+            <h2>To the procedures and services</h2>
+            <ul>                 <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-fuer-au-pair-beschaeftigte-nicht-euewr-beantragen/vbid6011729">Aufenthaltserlaubnis für Au-pair-Beschäftigte (Nicht-EU/EWR) beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-fuer-eine-beschaeftigung-beantragen/vbid6011733">Aufenthaltserlaubnis für eine Beschäftigung beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-fuer-staatsangehoerige-der-schweiz-beantragen/vbid159">Aufenthaltserlaubnis für Staatsangehörige der Schweiz beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-fuer-studierende-aus-staaten-ausserhalb-euewr-beantragen/vbid6011737">Aufenthaltserlaubnis für Studierende aus Staaten außerhalb EU/EWR beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-fuer-studierende-aus-staaten-ausserhalb-euewr-verlaengern/vbid6011739">Aufenthaltserlaubnis für Studierende aus Staaten außerhalb EU/EWR verlängern</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-zum-zweck-der-ausbildung-beantragen/vbid6011741">Aufenthaltserlaubnis zum Zweck der Ausbildung beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-zum-zweck-der-ausbildung-verlaengern/vbid6011743">Aufenthaltserlaubnis zum Zweck der Ausbildung verlängern</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-zum-zweck-der-forschung-beantragen/vbid6011745">Aufenthaltserlaubnis zum Zweck der Forschung beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-zur-arbeitsplatzsuche-fuer-fachkraefte-beantragen/vbid6011747">Aufenthaltserlaubnis zur Arbeitsplatzsuche für Fachkräfte beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/aufenthaltserlaubnis-zur-ausuebung-der-selbstaendigen-taetigkeit-beantragen/vbid6011749">Aufenthaltserlaubnis zur Ausübung der selbständigen Tätigkeit beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/elektronischen-aufenthaltstitel-eat-beantragen/vbid6011753">Elektronischen Aufenthaltstitel (eAT) beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/nachzug-aus-familiaeren-gruenden-weitere-familienangehoerige---aufenthaltserlaubnis-beantragen/vbid6011755">Nachzug aus familiären Gründen (weitere Familienangehörige) - Aufenthaltserlaubnis beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/nachzug-aus-familiaeren-gruenden-zu-auslaendern---aufenthaltserlaubnis-beantragen/vbid6011757">Nachzug aus familiären Gründen (zu Ausländern) - Aufenthaltserlaubnis beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/nachzug-aus-familiaeren-gruenden-zu-deutschen---aufenthaltserlaubnis-beantragen/vbid6011759">Nachzug aus familiären Gründen (zu Deutschen) - Aufenthaltserlaubnis beantragen</a></li>
+                            <li><a href="/-/allgemeine+dienstleistungen/verpflichtungserklaerung-abgeben/vbid1761">Verpflichtungserklärung abgeben</a></li>
+            </ul>
+        </div>
+        <div class="section section-freigabevermerk"><h2>Freigabevermerk</h2><div class="section-text"><p>Stand: 20.12.2021</p>
+<p>Verantwortlich: Justizministerium Baden-Württemberg</p></div></div>
+</div>
+<!-- /lebenslagen-details -->
+</div>
+</section>
+
+
+
+                <div class="ym-g100" id="contentKontakt">
+                                        <a id="anker2161639"></a><div class="composedcontent-standardseite-landkreis-konstanz block_2161639 kontaktbox" id="cc_2161639">
+  <h2 class="basecontent-sub-heading" id="anker2844282">Kontakt</h2>
+
+  <p class="basecontent-line-break-text" id="anker2844281">Landratsamt Konstanz<br>Benediktinerplatz 1<br>78467 Konstanz<br><a class="linkTyp_17749 httpsLink externerLink neuFensterLink" href="https://www.google.de/maps/place/Landratsamt+Konstanz/@47.6692336,9.1753013,17z/data=!3m1!4b1!4m5!3m4!1s0x479af701ed204293:0x15814f36fda26c11!8m2!3d47.66923!4d9.17749" rel="external noopener" target="_blank">Lage</a><br><br>T. +49 7531 800-0<br><a class="mailLink" href='[eMail]info[klammerAffe]LRAKN[punkt]de' rel="nofollow" title="Poststelle Landratsamt Konstanz">Info@LRAKN.de</a></p>
+
+
+  <h2 class="basecontent-sub-heading" id="anker2161642">Servicezeiten</h2>
+<div class="basecontent-table" id="anker2161643">
+  <table class="hide-grid" id="grid_2161643">
+    <tbody>
+      <tr class="even">
+        <td>Mo.</td>
+        <td>8:00 - 12:00 und 14:00 - 16:00 Uhr</td>
+      </tr>
+      <tr class="odd">
+        <td>Di.</td>
+        <td>8:00 - 12:00 und 14:00 - 16:00 Uhr</td>
+      </tr>
+      <tr class="even">
+        <td>Mi.</td>
+        <td>8:00 - 12:00 und 14:00 - 16:00 Uhr</td>
+      </tr>
+      <tr class="odd">
+        <td>Do.</td>
+        <td>8:00 - 12:00 und 14:00 - 16:00 Uhr</td>
+      </tr>
+      <tr class="even">
+        <td>Fr.</td>
+        <td>8:00 - 12:00 Uhr</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</div>
+                </div>
+                <div class="contentFooter ym-g100 ym-gr">
+
+                        <div id="printpage" class="ym-gl"><a href="/site/lrakn/render/2149517/Lde/print.pdf?leb=5000122" title="Seite als pdf-Datei speichern" target="_blank"><i class="fa fa-print"></i></a></div>
+                        <div id="sendpage" class="ym-gr"><a href="/site/lrakn/recommend/2149517/Lde/index.html?leb=5000122" title="Seite empfehlen"><i class="fa fa-share-square-o"></i></a></div>
+                </div>
+<!-- content-custom.vm end -->
+                          </div>
+                    </div>
+                </div>
+          </div>
+        </div>
+        <footer id="footer">
+                  <!-- bottom-custom.vm start -->
+        <div class="c100m ym-g100" id="footerBild">
+                        <div class="ym-wrapper">
+                        <div class="ym-wbox">
+                                <a id="anker2034876"></a><div class="composedcontent-standardseite-landkreis-konstanz block_2034876" id="cc_2034876"><figure class="basecontent-image image resized resizedW1920 resizedH600" id="anker2034881"><div class='image-inner' id='img_2034881'><img alt="Luftaufnahme von Konstanz mit Hörnle, Lorettowald und Mainau" src="/site/lrakn/data/2030388/resize/Konstanz_Hoernle_Mende_7335.jpg?f=%2Fsite%2Flrakn%2Fget%2Fparams_E1382068666%2F2034881%2FKonstanz_Hoernle_Mende_7335.jpg&amp;w=1920&amp;h=600&amp;m=C"></div></figure>
+</div>
+        </div>
+                                        </div>
+                        </div>
+        <div class="c100m ym-g100" id="footerKontakt2">
+                        <div class="ym-wrapper">
+                        <div class="ym-wbox">
+                                <a id="anker2865272"></a><div class="composedcontent-dvv-row subcolumns linearize-level-2" id="row_2865272">
+  <div id="id2865273" class="ym-g33 ym-gl">
+    <div class="subcl"><a id="anker2865273"></a>
+      <div class="composedcontent-dvv-column2 subrows" id="col_2865273">
+        <div id="id2865274">
+          <div><a id="anker2865274"></a>
+            <article class="composedcontent-dvv-box boxborder block_2865274" id="cc_2865274">
+              <div id="boxid2865275" class="boxChild">
+                <h2 class="basecontent-sub-heading" id="anker2865275">Adresse</h2>
+              </div>
+              <div id="boxid2865276" class="boxChild">
+                <p class="basecontent-line-break-text" id="anker2865276">Landratsamt Konstanz<br>Benediktinerplatz 1<br>78467 Konstanz  <br>   </p>
+
+              </div>
+              <div id="boxid3245690" class="boxChild"><figure class="basecontent-image image" id="anker3245690"><div class='image-inner' id='img_3245690'><a class="externerLink neuFensterLink" href="http://www.vierlaenderregion.com/" rel="external noopener" target="_blank" title="Zur Internetseite der Vier L&auml;nder Region Bodensee"><img alt="Logo des Vierländerregion Bodensee" src="/site/lrakn/get/params_E173809833/3245690/VierlaenderregionBodensee_Logo_Flagge_quer.png"></a></div></figure></div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="id2865277" class="ym-g33 ym-gl">
+    <div class="subc"><a id="anker2865277"></a>
+      <div class="composedcontent-dvv-column2 subrows" id="col_2865277">
+        <div id="id2865278">
+          <div><a id="anker2865278"></a>
+            <article class="composedcontent-dvv-box boxborder block_2865278" id="cc_2865278">
+              <div id="boxid2865279" class="boxChild">
+                <h2 class="basecontent-sub-heading" id="anker2865279">Persönlich erreichbar</h2>
+              </div>
+              <div id="boxid2865280" class="boxChild">
+                <div class="basecontent-list align-left" id="anker2865280">
+                  <ul><li><a class="internerLink" href="/,Lde/service-und-verwaltung/oeffnungszeiten" title="Öffnungszeiten der Dienststellen">Öffnungszeiten der Dienststellen</a><br></li><li><a class="internerLink" href="/,Lde/service-und-verwaltung/adressen+_+lageplan" title="Adressen der Dienststellen">Adressen der Dienststellen</a></li><li><a class="internerLink" href="/,Len/bankverbindungen" title="Bankverbindungen">Bankverbindungen des Landkreises</a></li></ul>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="id2865281" class="ym-g33 ym-gr">
+    <div class="subcr"><a id="anker2865281"></a>
+      <div class="composedcontent-dvv-column2 subrows" id="col_2865281">
+        <div id="id2865282">
+          <div><a id="anker2865282"></a>
+            <article class="composedcontent-dvv-box boxborder block_2865282" id="cc_2865282">
+              <div id="boxid2865283" class="boxChild">
+                <h2 class="basecontent-sub-heading" id="anker2865283">Kontaktmöglichkeiten</h2>
+              </div>
+              <div id="boxid2865284" class="boxChild">
+                <div class="basecontent-list align-left" id="anker2865284">
+                  <ul><li>T. <a class="telLink neuFensterLink" href="tel:+49%207531%20800-0" target="_blank" title="Telefonnummer der Telefon-Zentrale">+49 7531 800-0</a></li><li>F. +49 7531 800-1326</li><li><a class="internerLink" href="/,Len/strukturseiten/kontaktformular">Kontaktformular</a></li><li><a class="mailLink" href='[eMail]info[klammerAffe]LRAKN[punkt]de' rel="nofollow" title="Poststelle Landratsamt Konstanz">info@lrakn.de</a></li><li><a class="mailLink neuFensterLink" href='[eMail]info[klammerAffe]lrakn[punkt]de-mail[punkt]de' rel="nofollow" target="_blank" title="Sicher DE-Mail">info@lrakn.de-mail.de</a></li><li><a class="httpsLink externerLink neuFensterLink" href="https://ekp.dvvbw.de/intelliform/forms/lra-konstanz/poststelle/pool/vpsweb/anfrage-vpsweb/index" rel="external noopener" target="_blank">VPS Sicher kommunizieren</a></li><li><a class="dateiLink linkTyp_asc" href="/site/lrakn/get/documents_E2091920823/lrakn/PB5Documents/Dateien/LRAKN_OpenPGP_Publickey.asc">PGP Public Key LRA KN</a></li></ul>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+                                        </div>
+                        </div>
+<div class="ym-grid ym-noprint finish ym-g100">
+                <div class="ym-wrapper">
+                        <div class="ym-wbox ym-g100">
+
+
+                                        <div class="ym-gl copyright">
+                                                        Copyright &copy; 2018 - 2020 Landkreis Konstanz<span class="trennerf">&nbsp;  |   &nbsp;</span>
+                                        </div>
+                                        <nav class="ym-gl flinks" aria-label="Service-Navigation">
+                                                <ul>
+                                                        <li><a href="/strukturseiten/impressum">Impressum</a></li>
+                                                        <Li><a href="/strukturseiten/datenschutz">Datenschutz</a></li>
+                                                        <li><a href="#" onclick="CCM.openWidget();return false;">Datenschutz-Einstellungen</a></li>
+                                                        <li><a href="/site/lrakn/sitemap/2149517/Lde/index.html" rel="nofollow">Inhaltsverzeichnis</a></li>
+                                                <ul>
+                                                   &nbsp; &nbsp;<span class="poweredby-label"><a class="poweredby-login" href="/auth/index.html?secure=true&amp;url=%2F,Len%2F-%2F2149517%2F;leb5000122" title="Login" aria-label="Login" aria-hidden="true">p</a>owered by <a class="poweredby-name" href="https://www.komm.one/cms" target="_blank" title="Internetseite von Komm.ONE">Komm.ONE</a></span>
+                                        </nav>
+
+
+
+                        </div>
+                </div>
+</div>
+                        <a href="#top" id="toTop" aria-hidden="true" aria-label="Sprunglink zum Anfang der Seite" title="Zurück nach oben">
+                                <i class="fa fa-chevron-circle-up"></i>
+                                <span>Zurück nach oben</span>
+                        </a>
+<!-- bottom-custom.vm end -->
+        </footer>
+</div>
+<script src="/site/lrakn/resourceCached/10.3.4.2/js/custom.js"></script>
+<script src="/site/lrakn/data/2149517/tracking/tracking.js"></script>
+<script async defer src="https://statistik.kivbf.de/piwik/piwik.js"></script>
+<noscript><img alt="" src="https://statistik.kivbf.de/piwik/piwik.php?idsite=47%20&amp;action_name=Deutsch%20/%20%20Service%20%26%20administration%20/%20Lebenslagen%20von%20A-Z%202149517"></noscript>
+</body>
+</html><!--
+  copyright Komm.ONE
+  dvv.Portalplattform 10.4.2.6-RELEASE (lib 10.4.2.6-RELEASE) running on CMS10 10.4.2.14
+  node       2030388/2033571/2149517 Lebenslagen von A Z
+  locale     de Deutsch
+  site       lrakn
+  view       service-bw-Lebenslagen
+  service    node
+  user       anonymous
+  server     cms03
+  duration   206 ms
+-->

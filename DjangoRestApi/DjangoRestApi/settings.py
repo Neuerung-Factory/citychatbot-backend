@@ -25,7 +25,7 @@ SECRET_KEY = '7reb9d$g$mhgw0_)@y%+jh=$bnj9f*)v4zz1b4b-p+^^=zd8(d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['iabdulazeem.pythonanywhere.com']
+ALLOWED_HOSTS = ['iabdulazeem.pythonanywhere.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
@@ -60,6 +60,7 @@ MIDDLEWARE = [
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:8081',
+    "http://localhost:3000"
 )
 
 ROOT_URLCONF = 'DjangoRestApi.urls'

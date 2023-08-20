@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	********************************************************************************
+	*                                                                *****  **     *
+	*              TYPO3 by in2code.de - Wir leben TYPO3           ******  ****    *
+	*                                                               *****  **      *
+	* www.in2code.de / info(at)in2code(dot)de / +49 8031 8873983     *****         *
+	*                                                                  **          *
+	********************************************************************************
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2023 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Ausländerbehörde | Formalitäten | Welcome Centre | AAIA Teilbereiche | Universitätsverwaltung | Universität Konstanz</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="robots" content="index,follow" />
+<meta name="language" content="de" />
+<meta name="date" content="2021-03-22" />
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/css/4240fca4a1.css?1687332417" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ukn_fe_groups/Resources/Public/Stylesheets/member.css?1686665437" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/internships/Resources/Public/Css/main.css?1686665436" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ukn_systemstate/Resources/Public/Css/style.css?1686665437" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/in2template/Resources/Public/Css/styles.css?1687331783" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/kn_yellowfin/Resources/Public/Css/tables.css?1686665436" media="all">
+
+
+
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/jquery-1.11.2.min.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/jquery-ui.min.js?1687331734"></script>
+
+
+<link rel="shortcut icon" type="image/png" href="/typo3conf/ext/in2template/Resources/Public/Images/Favicons/default.png" />
+</head>
+<body data-page-identifier="55514" class="layout-in2template__Detail menu-alt ">
+
+
+
+
+
+<nav class="anchormenu" aria-label="Sprungmenü">
+	<ul>
+		<li><a href="#nav-bar" tabindex="1">Hauptnavigation</a></li>
+		<li><a href="#main" tabindex="1">Seiteninhalt</a></li>
+		<li><a href="#content" tabindex="1">Inhalt</a></li>
+		<li><a href="#footer-menu" tabindex="1">Hilfe &amp; Kontakt</a></li>
+	</ul>
+</nav>
+
+
+
+
+
+
+
+<header>
+	<nav class="nav-bar" id="nav-bar" role="navigation" aria-label="Hauptnavigation" data-mobilebutton-text="Menü">
+		<a class="search" href="#" data-layer="search">
+			<span class="icon-search"></span>
+			<span class="hidden">Suche</span>
+		</a>
+		<a class="logo-small" href="#">
+			<img alt="Universität Konstanz" src="/typo3conf/ext/in2template/Resources/Public/Images/logo-small.svg" width="91" height="35" />
+		</a>
+		<div>
+			
+				
+
+<ul class="nav-main" id="nav-main">
+	
+		
+			<li class="">
+				
+						<a href="/universitaet/" class="more " data-title="Universität Konstanz">Universität</a>
+
+						<div class="dropdown">
+							<div>
+								<div class="flex-container">
+									<ul>
+										<li class="primary">
+											<a href="/universitaet/">
+												Universität
+												<span class="icon-arrow-right"></span>
+											</a>
+										</li>
+										
+											<li id="">
+												<a href="/universitaet/ueber-die-universitaet-konstanz/" class="">Über die Universität Konstanz</a>
+											</li>
+										
+											<li id="">
+												<a href="/universitaet/aktuelles-und-medien/" class="">Aktuelles und Medien</a>
+											</li>
+										
+											<li id="">
+												<a href="/universitaet/leitung-organisation-und-verwaltung/" class="">Leitung, Organisation und Verwaltung</a>
+											</li>
+										
+											<li id="">
+												<a href="/universitaet/sektionen-und-fachbereiche/" class="">Sektionen und Fachbereiche</a>
+											</li>
+										
+											<li id="">
+												<a href="/international-office/" class="">International</a>
+											</li>
+										
+											<li id="">
+												<a href="/universitaet/transfer/" class="">Transfer</a>
+											</li>
+										
+											<li id="">
+												<a href="/universitaet/nachhaltige-entwicklung/" class="">Nachhaltige Entwicklung</a>
+											</li>
+										
+											<li id="">
+												<a href="/alumni/" class="">Alumni-Netzwerk</a>
+											</li>
+										
+									</ul>
+									
+										<div class="image-container grayscale" style="background-image: url('/fileadmin/profilbilder/53883.jpg');"></div>
+									
+								</div>
+							</div>
+						</div>
+
+					
+
+			</li>
+		
+	
+		
+			<li class="">
+				
+						<a href="/forschen/" class="more " data-title="Forschen an der Universität Konstanz">Forschen</a>
+
+						<div class="dropdown">
+							<div>
+								<div class="flex-container">
+									<ul>
+										<li class="primary">
+											<a href="/forschen/">
+												Forschen
+												<span class="icon-arrow-right"></span>
+											</a>
+										</li>
+										
+											<li id="">
+												<a href="/forschen/forschungsprofil/" class="">Forschungsprofil</a>
+											</li>
+										
+											<li id="">
+												<a href="/forschen/exzellenzwettbewerb/" class="">Exzellenzwettbewerb</a>
+											</li>
+										
+											<li id="">
+												<a href="/forschen/akademische-karriereentwicklung/" class="">Akademische Karriereentwicklung</a>
+											</li>
+										
+											<li id="">
+												<a href="/forschen/forschungseinrichtungen/" class="">Forschungseinrichtungen</a>
+											</li>
+										
+											<li id="">
+												<a href="/forschen/forschungsfoerderung-und-wissenschaftsunterstuetzende-angebote/" class="">Forschungsförderung und wissenschaftsunterstützende Angebote</a>
+											</li>
+										
+											<li id="">
+												<a href="/universitaet/transfer/" class="">Transfer</a>
+											</li>
+										
+											<li id="">
+												<a href="/forschen/international/" class="">International</a>
+											</li>
+										
+									</ul>
+									
+										<div class="image-container grayscale" style="background-image: url('/fileadmin/profilbilder/53881.jpg');"></div>
+									
+								</div>
+							</div>
+						</div>
+
+					
+
+			</li>
+		
+	
+		
+			<li class="">
+				
+						<a href="/studieren/" class="more " data-title="Studieren an der Universität Konstanz">Studieren</a>
+
+						<div class="dropdown">
+							<div>
+								<div class="flex-container">
+									<ul>
+										<li class="primary">
+											<a href="/studieren/">
+												Studieren
+												<span class="icon-arrow-right"></span>
+											</a>
+										</li>
+										
+											<li id="">
+												<a href="/studieren/deine-universitaet-deine-zukunft/" class="">Vor dem Studium</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/vor-dem-studium/bewerbung-und-immatrikulation/" class="">Bewerbung und Immatrikulation</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/im-studium/" class="">Im Studium</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/rund-ums-studium/" class="">Rund ums Studium</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/nach-dem-studium/" class="">Nach dem Studium</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/international/" class="">International studieren</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/universitaet-fuer-alle/" class="">Universität für alle</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/beratung-und-service/" class="">Beratung und Service</a>
+											</li>
+										
+									</ul>
+									
+										<div class="image-container grayscale" style="background-image: url('/fileadmin/profilbilder/53882.jpg');"></div>
+									
+								</div>
+							</div>
+						</div>
+
+					
+
+			</li>
+		
+	
+		
+			<li class="">
+				
+						<a href="/lehren/" class="more " data-title="Lehren an der Universität Konstanz">Lehren</a>
+
+						<div class="dropdown">
+							<div>
+								<div class="flex-container">
+									<ul>
+										<li class="primary">
+											<a href="/lehren/">
+												Lehren
+												<span class="icon-arrow-right"></span>
+											</a>
+										</li>
+										
+											<li id="">
+												<a href="/lehren/weiterentwicklung-der-lehre/" class="">Weiterentwicklung der Lehre</a>
+											</li>
+										
+											<li id="">
+												<a href="/lehren/qualifizierungsmoeglichkeiten-fuer-lehrende/" class="">Qualifizierung</a>
+											</li>
+										
+											<li id="">
+												<a href="/forschen/international/" class="">International</a>
+											</li>
+										
+											<li id="">
+												<a href="/universitaet/gesellschaft-und-wirtschaft/transfer-lehre/" class="">Transfer in der Lehre</a>
+											</li>
+										
+											<li id="">
+												<a href="/lehren/regularien/" class="">Regularien</a>
+											</li>
+										
+											<li id="">
+												<a href="/lehren/foerderprogramme-und-preise/" class="">Förderprogramme und Preise</a>
+											</li>
+										
+											<li id="">
+												<a href="/studieren/im-studium/semestertermine/" class="">Semestertermine</a>
+											</li>
+										
+											<li id="">
+												<a href="/lehren/beratung-hilfsmittel-service/" class="">Beratung – Hilfsmittel – Service</a>
+											</li>
+										
+									</ul>
+									
+										<div class="image-container grayscale" style="background-image: url('/fileadmin/profilbilder/53885.jpg');"></div>
+									
+								</div>
+							</div>
+						</div>
+
+					
+
+			</li>
+		
+	
+		
+			<li class=" highlight">
+				
+						<a href="https://uni.kn/campus">campus.kn</a>
+					
+
+			</li>
+		
+	
+</ul>
+
+
+			
+
+			<ul id="nav-meta" class="nav-meta">
+				
+					<li class="accessibility">
+						<a href="/typo3-redaktionshandbuch/schreiben-fuer-online-und-print-login/digitale-barrierefreiheit/" class="header-meta-nav-button">
+							<span class="icon-accessibility"></span>
+							<span class="hidden">
+								Barrierefreiheit
+							</span>
+						</a>
+					</li>
+				
+
+				
+
+				
+
+<li class="sub language list">
+	<button class="toggle" title="Sprache wechseln" data-open="Weitere Sprachen anzeigen"
+					data-close="Weitere Sprachen ausblenden" aria-expanded="false">
+		<i class="icon-globe"></i>
+		
+			
+				<abbr title="Deutsch" lang="de">de</abbr>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</button>
+	<ul class="dropdown-meta">
+		
+			
+		
+			
+				<li>
+					<a title="English" href="/en/welcome-centre/formalities/immigration-office/">
+						<span lang="en">English</span>
+					</a>
+				</li>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</ul>
+</li>
+
+
+
+
+				
+					
+
+<li class="sub myukn-menu">
+	<button class="toggle" title="Meine Universität">
+		
+				<span class="icon-user"></span>
+			
+
+		<span class="hidden">
+			Meine Universität
+		</span>
+	</button>
+	<div class="dropdown-meta">
+
+		
+				
+
+<p>
+	Melden Sie sich mit Ihrem Uni-Account an, um auf passwortgeschützte Bereiche zugreifen zu können.
+</p>
+
+<form action="https://www.uni-konstanz.de/welcome-centre/formalitaeten/auslaenderbehoerde/" target="_top" method="post" onsubmit="">
+	<div>
+		<label for="myukn-mail">
+			Benutzername
+		</label>
+		<input type="text" id="myukn-mail" name="user">
+		<label for="myukn-password">
+			Passwort
+		</label>
+		<input type="password" id="myukn-password" name="pass">
+		<a href="https://www.uni-konstanz.de/zugangsdaten-vergessen/">
+			Zugangsdaten vergessen?
+		</a>
+		<button type="submit" name="submit" id="submit" class="">
+			Anmelden
+		</button>
+	</div>
+
+	<div class="felogin-hidden">
+		<input type="hidden" name="logintype" value="login"/>
+		<input type="hidden" name="pid" value="241,14462,35404,64285@b854c5a1e7a20c580a4f1b8babb630ff835cbce4"/>
+		
+				<input type="hidden" name="return_url" value="" onload="" data-return-url="true" />
+				
+			
+	</div>
+</form>
+
+
+			
+	</div>
+</li>
+
+
+				
+
+				<li class="search" data-layer="search">
+					<button class="toggle">
+						<span class="icon-search"></span>
+						<span class="hidden">
+							Suche
+						</span>
+					</button>
+				</li>
+			</ul>
+
+		</div>
+	</nav>
+
+	
+		<div class="masthead" role="banner">
+			<div class="flex-container">
+				
+
+<div class="left">
+	
+			
+<div class="logo-large">
+	<a href="/">
+		<img alt="Universität Konstanz" src="/typo3conf/ext/in2template/Resources/Public/Images/logo.svg" width="737" height="283" />
+	</a>
+</div>
+
+
+		
+
+	
+
+
+
+	
+			<div>
+				
+						<span>
+							<a href="/welcome-centre/">
+								Welcome Centre
+							</a>
+						</span>
+					
+				<h1>Ausländerbehörde</h1>
+			</div>
+		
+
+
+
+</div>
+
+<div class="right">
+	
+</div>
+
+
+			</div>
+
+			
+
+			
+
+
+	<nav class="breadcrumb" aria-label="Sie befinden sich hier">
+		
+			
+					<a href="/welcome-centre/">Welcome Centre</a>
+				
+
+			
+				<span class="icon-point-right" aria-hidden="true"></span>
+			
+		
+			
+					<a href="/welcome-centre/formalitaeten/">Formalitäten</a>
+				
+
+			
+				<span class="icon-point-right" aria-hidden="true"></span>
+			
+		
+			
+					<span>Ausländerbehörde</span>
+				
+
+			
+		
+	</nav>
+
+
+
+		</div>
+	
+</header>
+
+
+
+
+
+	<div class="main" id="main">
+		<div class="flex-container">
+			
+
+<nav class="sidebar" id="sidebar-menu" role="navigation" aria-label="Unternavigation">
+	<button class="toggle">
+		Menü
+	</button>
+	<ul>
+		
+			<li class="">
+				
+						<a href="/welcome-centre/ueber-das-welcome-centre/">
+							Über das Welcome Centre
+						</a>
+					
+
+				
+			</li>
+		
+			<li class="">
+				
+						<a href="/welcome-centre/unser-service/" class="more" data-text="Menü ein/ausblenden">
+							Unser Service
+						</a>
+					
+
+				
+					<ul>
+						
+							<li>
+								<a href="/welcome-centre/unser-service/vor-ihrem-aufenthalt/">
+									Vor Ihrem Aufenthalt
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/unser-service/bei-ihrer-ankunft/">
+									Bei Ihrer Ankunft
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/unser-service/waehrend-ihres-aufenthalts/">
+									Während Ihres Aufenthalts
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/unser-service/zum-ende-ihres-aufenthalts/">
+									Zum Ende Ihres Aufenthalts
+								</a>
+								
+							</li>
+						
+					</ul>
+				
+			</li>
+		
+			<li class="">
+				
+						<a href="/universitaet/ueber-die-universitaet-konstanz/anreise-lageplan-und-oeffnungszeiten/">
+							Anreise
+						</a>
+					
+
+				
+			</li>
+		
+			<li class="on curr">
+				
+						<a href="/welcome-centre/formalitaeten/" class="more" data-text="Menü ein/ausblenden">
+							Formalitäten
+						</a>
+					
+
+				
+					<ul>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/dokumente-und-uebersetzungen/">
+									Dokumente und Übersetzungen
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/visum/">
+									Visum
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/versicherungen/">
+									Versicherungen
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/auslaenderbehoerde/" class="curr">
+									Ausländerbehörde
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/anmeldung-und-rundfunkgebuehr/">
+									Anmeldung und Rundfunkgebühr
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/arbeiten-und-steuern-zahlen/">
+									Arbeiten und Steuern zahlen
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/bankkonto/">
+									Bankkonto
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/fuehrerschein-und-kfz/">
+									Führerschein und KFZ
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/formalitaeten/umzug-und-abreise/">
+									Umzug und Abreise
+								</a>
+								
+							</li>
+						
+					</ul>
+				
+			</li>
+		
+			<li class="">
+				
+						<a href="/welcome-centre/wohnen/" class="more" data-text="Menü ein/ausblenden">
+							Wohnen
+						</a>
+					
+
+				
+					<ul>
+						
+							<li>
+								<a href="/welcome-centre/wohnen/informationen-fuer-vermieterinnen/">
+									Informationen für Vermieter*innen
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/wohnen/information-for-international-researchers/">
+									Information for international researchers
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/wohnen/team-wohnen/">
+									Team Wohnen
+								</a>
+								
+							</li>
+						
+					</ul>
+				
+			</li>
+		
+			<li class="">
+				
+						<a href="/welcome-centre/leben-in-konstanz/" class="more" data-text="Menü ein/ausblenden">
+							Leben in Konstanz
+						</a>
+					
+
+				
+					<ul>
+						
+							<li>
+								<a href="https://goo.gl/maps/YwLx1sswDeM2">
+									Stadtplan Konstanz
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/kultur-in-konstanz/">
+									Kultur in Konstanz
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/sport/">
+									Sport
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/sprachkurse/">
+									Sprachkurse
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/religion/">
+									Religion
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/aerzte-und-krankenhaeuser/">
+									Ärzte und Krankenhäuser
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/unterwegs-in-konstanz/">
+									Unterwegs in Konstanz
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/telekommunikation-und-internet/">
+									Telekommunikation und Internet
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/leben-in-konstanz/einkaufen/">
+									Einkaufen
+								</a>
+								
+							</li>
+						
+					</ul>
+				
+			</li>
+		
+			<li class="">
+				
+						<a href="/welcome-centre/familie/" class="more" data-text="Menü ein/ausblenden">
+							Familie
+						</a>
+					
+
+				
+					<ul>
+						
+							<li>
+								<a href="/welcome-centre/familie/familiennachzug/">
+									Familiennachzug
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/gleichstellungsreferat/familie/kinderbetreuung/">
+									Kinderbetreuung
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/familie/schulen-in-konstanz/">
+									Schulen in Konstanz
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="/welcome-centre/familie/leistungen-fuer-eltern/">
+									Leistungen für Eltern
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="https://www.uni-konstanz.de/gleichstellungsreferat/familie/">
+									Familienförderung
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="https://www.seezeit.com/kinder/">
+									Seezeit Service
+								</a>
+								
+							</li>
+						
+					</ul>
+				
+			</li>
+		
+			<li class="">
+				
+						<a href="/welcome-centre/team/">
+							Team
+						</a>
+					
+
+				
+			</li>
+		
+	</ul>
+</nav>
+
+
+
+
+			<section class="container columns" id="content" role="main">
+				<!--TYPO3SEARCH_begin-->
+				
+    
+
+            <div id="c209414" class="frame frame-default frame-type-page-header frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	
+			
+	<header class="full">
+		
+	
+			<h2><span>Ausländerbehörde</span></h2>
+			
+		
+
+	</header>
+
+		
+
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				<div class="content detail">
+					
+    
+
+            <div id="c209415" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	<div class="ce-textpic">
+		
+			
+
+
+
+		
+
+		
+			<div class="ce-bodytext">
+				<p>Personen die mit einem Visum eingereist sind: sofern Ihr Aufenthalt an der Universität Konstanz länger als drei Monate beträgt, müssen Sie sich nach Ihrer Ankunft nicht nur bei der Stadt anmelden, sondern sich darüber hinaus bei der zuständigen Ausländerbehörde melden und einen Aufenthaltstitel beantragen. Die Zuständigkeit richtet sich nach dem Wohnsitz. Wenn Sie in Konstanz gemeldet sind, ist die <a href="https://service.konstanz.de/Aemter-A-Z/Amt-Detailansicht/?id=6003319" target="_blank" class="external" rel="noreferrer">Ausländerbehörde der Stadt Konstanz </a>zuständig. 
+</p>
+<p>Bitte beachten Sie: Staatsangehörige aus Nicht-EU-Staaten, die von der Visumspflicht befreit sind und länger als 3 Monate an der Universität Konstanz bleiben, müssen ebenfalls nach der Einreise eine Aufenthaltserlaubnis beantragen.
+</p>
+<p><strong>Staatsangehörige von EU- oder EWR-Staaten</strong> benötigen keinen Aufenthaltstitel.</p>
+			</div>
+		
+
+		
+	</div>
+
+	
+
+
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+
+            <div id="c209416" class="frame frame-default frame-type-infobox frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	<div class="infobox">
+		<h4></h4>
+		<p>Das Welcome Centre berät Sie gerne zu den unterschiedlichen Aufenthaltstiteln und ist Ihnen behilflich, den für Sie passendsten Aufenthaltstitel auszuwählen. Zur Beantragung des Aufenthaltstitels sind verschiedene Unterlagen notwendig: Das Welcome Center ist Ihnen gerne behilflich, die notwendigen Unterlagen zusammenzustellen. Für die Beantragung einer Aufenthaltserlaubnis ist beispielsweise der Nachweis einer im Bundesgebiet gültigen Krankenversicherung notwendig. Bitte beachten Sie, dass im Normalfall nur deutsche Krankenversicherungen akzeptiert werden.</p>
+	</div>
+
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+
+            <div id="c209417" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	<div class="ce-textpic">
+		
+			
+
+
+
+		
+
+		
+			<div class="ce-bodytext">
+				<p>Bitte wenden Sie sich rechtzeitig an das Welcome Center, um ausländerrechtliche Fragen zu klären. Eine umfassende Übersicht über die Bestimmungen bietet das Portal <a href="https://www.euraxess.de/de/germany/information-assistance/visum-und-einreise" target="_blank" class="external" rel="noreferrer">EURAXESS Deutschland</a>.</p>
+<p><strong>Diese Angaben sind ohne Gewähr.</strong></p>
+			</div>
+		
+
+		
+	</div>
+
+	
+
+
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+				<aside class="content-right">
+					
+				</aside>
+				<!--TYPO3SEARCH_end-->
+			</section>
+		</div>
+		<div class="content-related">
+			
+		</div>
+	</div>
+
+
+
+
+<footer role="contentinfo">
+	<div>
+		<a class="jump-top" href="#"
+			 title="Zum Inhaltsanfang">
+			<strong>
+				Zum Inhaltsanfang
+			</strong>
+			<i class="icon-arrow-up"></i>
+		</a>
+
+		
+
+		<nav id="footer-menu" aria-label="Hilfe und Kontakt">
+			<ul>
+				
+						
+							<li>
+								<a href="/universitaet/allginfo-footer/impressum-kontakt-und-haftungsausschluss/">
+									Impressum, Kontakt und Haftungsausschluss
+								</a>
+							</li>
+							<li>
+								<a href="/universitaet/allginfo-footer/datenschutzinformation/">
+									Datenschutzinformation
+								</a>
+							</li>
+							<li>
+								<a href="/personalabteilung/stellenangebote-1/stellenangebote-der-universitaet-konstanz/">
+									Stellenangebote
+								</a>
+							</li>
+							<li>
+								<a href="/universitaet/allginfo-footer/erklaerung-zur-barrierefreiheit/">
+									Erklärung zur Barrierefreiheit
+								</a>
+							</li>							<li>
+								<a href="/universitaet/leitung-organisation-und-verwaltung/struktur-prozesse-und-rechtliches/beratung-und-hilfe-bei-konflikten-und-diskriminierungen/">
+									Beratung bei Konflikten/Diskriminierungen
+								</a>
+							</li>
+							
+								<li>
+									<a href="mailto:Anke.Hagedorn@uni-konstanz.de">
+										Kontakt zur Redaktion
+									</a>
+								</li>
+							
+<!--
+						<li>
+								<button onClick="window.print()">
+									Seite drucken
+								</button>
+							</li>
+//-->							
+					
+			</ul>
+
+			<div class="box">
+				<ul>
+					
+							
+							
+								<li>
+									<a href="https://www.facebook.com/unikonstanz/">
+										Facebook
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://twitter.com/unikonstanz">
+										Twitter
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.youtube.com/user/UniversitaetKonstanz">
+										YouTube
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://itunes.apple.com/de/institution/universitat-konstanz/id604733564">
+										iTunes U
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.instagram.com/unikonstanz/">
+										Instagram
+									</a>
+								</li>
+							
+						
+				</ul>
+			</div>
+
+		</nav>
+
+		<p>
+			
+				<em>
+					&copy;
+					Universität Konstanz
+					2023
+				</em>
+			
+
+			
+			<span style="margin-left: 20px;">
+				Page Identifier: <strong>55514</strong>
+			</span>
+		</p>
+	</div>
+</footer>
+
+<!-- popup area -->
+<div class="layer search">
+	<div class="content-container">
+		<button class="close">
+			<i class="icon-close"></i>
+			<span class="hidden">
+				Suche ausblenden
+			</span>
+		</button>
+
+		<h2>
+			
+					Universität Konstanz Suche
+				
+
+		</h2>
+		<nav class="tab-menu tab-toggle">
+			<ul>
+				<li class="on">
+					<a href="#" class="">
+						<span>Seitensuche</span>
+					</a>
+				</li>
+				
+					<li>
+						<form class="form-external" method="get" target="_blank"
+									action="https://konstanz.summon.serialssolutions.com/de-DE/search">
+							<input type="text" class="search-external hidden" id="summon-search-field" name="s.q">
+							<button type="submit">KonSearch <span class="icon-arrow-external"></span></button>
+						</form>
+					</li>
+					<li>
+						<form class="form-external" name="display" target="_blank" method="get"
+									action="https://libero.ub.uni-konstanz.de/libero/WebopacOpenURL.cls">
+							<input type="text" class="search-external hidden" name="TERM_1" id="TERM_1">
+							<input type="hidden" name="sid" value="Libero:Kon">
+							<input type="hidden" name="sortby" value="5">
+							<input type="hidden" name="searchby1" value="ANYW">
+							<button type="submit" value="SEARCH" name="ACTION">
+								Lokaler Bibliothekskatalog
+								<span class="icon-arrow-external"></span>
+							</button>
+						</form>
+					</li>
+				
+			</ul>
+		</nav>
+		<div>
+			<section class="container">
+				<div class="content detail">
+					<form
+						accept-charset="utf-8"
+						method="get"
+						action="/suche/"
+						id="tx-solr-search-form-pi-results">
+						<div class="flex-container">
+							<label for="sitesearch" class="hidden">
+								Suchbegriffe
+							</label>
+							<input type="hidden" value="0" name="L">
+							<input type="search" id="sitesearch"
+										 placeholder="Suchen"
+										 value="" name="q" class="tx-solr-q ui-autocomplete-input" autocomplete="off"
+										 aria-autocomplete="list" aria-haspopup="true">
+							<button type="submit">
+								Suchen
+								<span class="icon-search"></span>
+							</button>
+						</div>
+					</form>
+					<section class="result" style="display:none;">
+						<h2 class="hidden">
+							Suchergebnisse
+						</h2>
+						<h3>
+							Vorschläge
+						</h3>
+						<ul>
+						</ul>
+					</section>
+				</div>
+			</section>
+		</div>
+	</div>
+</div>
+
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Libraries/jquery.datetimepicker.min.js?1661243542"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Libraries/parsley.min.js?1661243542"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Tabs.min.js?1661243542"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1661243542"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/magnific.popup.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/owl.carousel.min.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/masonry.pkgd.min.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/mediaelement-and-player.min.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/picturefill.min.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/fancybox.min.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Static/study.js?1687331734"></script>
+<script src="/typo3conf/ext/in2template/Resources/Public/JavaScripts/Dynamic/main.js?1687331778"></script>
+<script>
+					window.onload = function() {
+						document.querySelector('[data-return-url="true"]').value = window.location.href;
+					}
+				</script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.uni-konstanz.de"]);
+  _paq.push(['setDomains', '*.uni-konstanz.de']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.uni-konstanz.de/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+</body>
+</html>
